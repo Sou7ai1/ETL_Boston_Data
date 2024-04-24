@@ -1,0 +1,46 @@
+[2024-04-05T00:32:22.216+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_postgre_operator.transform_shootings_task manual__2024-04-05T00:32:18.960974+00:00 [queued]>
+[2024-04-05T00:32:22.257+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_postgre_operator.transform_shootings_task manual__2024-04-05T00:32:18.960974+00:00 [queued]>
+[2024-04-05T00:32:22.258+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 1
+[2024-04-05T00:32:22.323+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): transform_shootings_task> on 2024-04-05 00:32:18.960974+00:00
+[2024-04-05T00:32:22.341+0000] {standard_task_runner.py:60} INFO - Started process 305 to run task
+[2024-04-05T00:32:22.347+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'dag_postgre_operator', 'transform_shootings_task', 'manual__2024-04-05T00:32:18.960974+00:00', '--job-id', '160', '--raw', '--subdir', 'DAGS_FOLDER/dag_python_operator_extract.py', '--cfg-path', '/tmp/tmpc0g0kluq']
+[2024-04-05T00:32:22.354+0000] {standard_task_runner.py:88} INFO - Job 160: Subtask transform_shootings_task
+[2024-04-05T00:32:22.453+0000] {task_command.py:423} INFO - Running <TaskInstance: dag_postgre_operator.transform_shootings_task manual__2024-04-05T00:32:18.960974+00:00 [running]> on host 7f6ff1f67725
+[2024-04-05T00:32:22.533+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='dag_postgre_operator' AIRFLOW_CTX_TASK_ID='transform_shootings_task' AIRFLOW_CTX_EXECUTION_DATE='2024-04-05T00:32:18.960974+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-05T00:32:18.960974+00:00'
+[2024-04-05T00:32:22.536+0000] {Transform_Shootings.py:10} ERROR - Error loading file: [Errno 2] No such file or directory: 'mohamed-souhail-moughel/Assignement1/Airflow Apachhe/plugins/ShootingsBostonGOV/ShootingsBostonGOV.csv'
+[2024-04-05T00:32:22.537+0000] {dag_python_operator_extract.py:57} ERROR - Failed to process the data: [Errno 2] No such file or directory: 'mohamed-souhail-moughel/Assignement1/Airflow Apachhe/plugins/ShootingsBostonGOV/ShootingsBostonGOV.csv'
+[2024-04-05T00:32:22.538+0000] {python.py:202} INFO - Done. Returned value was: None
+[2024-04-05T00:32:22.551+0000] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=dag_postgre_operator, task_id=transform_shootings_task, execution_date=20240405T003218, start_date=20240405T003222, end_date=20240405T003222
+[2024-04-05T00:32:22.605+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-04-05T00:32:22.633+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.8/site-packages/***/models/baseoperator.py:1201 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `***.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-04-05T00:32:22.658+0000] {taskinstance.py:3312} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-04-05T20:49:07.716+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_postgre_operator.transform_Shootings_task manual__2024-04-05T00:32:18.960974+00:00 [queued]>
+[2024-04-05T20:49:07.737+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_postgre_operator.transform_Shootings_task manual__2024-04-05T00:32:18.960974+00:00 [queued]>
+[2024-04-05T20:49:07.740+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 1
+[2024-04-05T20:49:07.769+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): transform_Shootings_task> on 2024-04-05 00:32:18.960974+00:00
+[2024-04-05T20:49:07.782+0000] {standard_task_runner.py:60} INFO - Started process 585 to run task
+[2024-04-05T20:49:07.793+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'dag_postgre_operator', 'transform_Shootings_task', 'manual__2024-04-05T00:32:18.960974+00:00', '--job-id', '420', '--raw', '--subdir', 'DAGS_FOLDER/dag_python_operator_extract.py', '--cfg-path', '/tmp/tmp0hlh_fc0']
+[2024-04-05T20:49:07.801+0000] {standard_task_runner.py:88} INFO - Job 420: Subtask transform_Shootings_task
+[2024-04-05T20:49:07.910+0000] {task_command.py:423} INFO - Running <TaskInstance: dag_postgre_operator.transform_Shootings_task manual__2024-04-05T00:32:18.960974+00:00 [running]> on host 7f6ff1f67725
+[2024-04-05T20:49:08.075+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='dag_postgre_operator' AIRFLOW_CTX_TASK_ID='transform_Shootings_task' AIRFLOW_CTX_EXECUTION_DATE='2024-04-05T00:32:18.960974+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-05T00:32:18.960974+00:00'
+[2024-04-05T20:49:08.132+0000] {Transform_Shootings.py:84} INFO - Result has been saved to the file: dim_regions_manual__2024-04-05T00:32:18.960974+00:00.csv
+[2024-04-05T20:49:08.154+0000] {dag_python_operator_extract.py:52} INFO - Transformed dataset was successfully saved as dim_regions_manual__2024-04-05T00:32:18.960974+00:00.csv
+[2024-04-05T20:49:08.188+0000] {logging_mixin.py:188} INFO -        incident_num  ... multiple_victims
+4     I152002233-00  ...                1
+12    I152006073-00  ...                1
+19    I152006534-00  ...                1
+41    I152025097-00  ...                1
+43    I152026103-00  ...                1
+...             ...  ...              ...
+1825      232035550  ...                1
+1845      232052689  ...                1
+1877      232068420  ...                1
+1883      232068420  ...                1
+1890      232072799  ...                1
+
+[82 rows x 8 columns]
+[2024-04-05T20:49:08.190+0000] {python.py:202} INFO - Done. Returned value was: None
+[2024-04-05T20:49:08.208+0000] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=dag_postgre_operator, task_id=transform_Shootings_task, execution_date=20240405T003218, start_date=20240405T204907, end_date=20240405T204908
+[2024-04-05T20:49:08.256+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-04-05T20:49:08.374+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.8/site-packages/***/models/baseoperator.py:1201 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `***.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-04-05T20:49:08.414+0000] {taskinstance.py:3312} INFO - 0 downstream tasks scheduled from follow-on schedule check

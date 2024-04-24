@@ -1,0 +1,1930 @@
+incident_num,shooting_date,district,shooting_type_v2,victim_gender,victim_race,victim_ethnicity_NIBRS,multi_victim
+I152000196-00,2015-01-01 13:30:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152000879-00,2015-01-04 01:58:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152001014-00,2015-01-04 18:52:00+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152002232-00,2015-01-08 22:45:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152002233-00,2015-01-08 22:45:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152002234-00,2015-01-08 22:45:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152002215-00,2015-01-08 22:45:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152003226-00,2015-01-12 23:58:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152004092-00,2015-01-16 02:25:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152005490-00,2015-01-20 23:30:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152005465-00,2015-01-20 11:03:00+00,B2,Fatal,Male,White,Not Hispanic or Latinx,f
+I152005806-00,2015-01-22 01:47:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152006073-00,2015-01-22 19:32:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152006114-00,2015-01-22 19:32:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152005008-00,2015-01-19 12:38:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152006505-00,2015-01-23 23:05:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152006535-00,2015-01-23 23:05:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152006455-00,2015-01-23 23:05:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152006514-00,2015-01-23 23:05:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152006534-00,2015-01-23 23:05:00+00,E13,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152006502-00,2015-01-23 23:05:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152009379-00,2015-02-04 19:40:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152010507-00,2015-02-08 19:34:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I152011034-00,2015-02-10 20:33:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152011169-00,2015-02-11 10:30:00+00,E13,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152016667-00,2015-03-01 22:28:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152017250-00,2015-03-03 19:12:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152018392-00,2015-03-07 02:03:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152019788-00,2015-03-11 18:12:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152019839-00,2015-03-12 00:11:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152020404-00,2015-03-13 18:21:03+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152020435-00,2015-03-13 20:03:15+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152020724-00,2015-03-14 21:05:20+00,E18,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152020804-00,2015-03-15 03:58:11+00,E18,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152020820-00,2015-03-15 03:59:42+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152020647-00,2015-03-14 15:46:13+00,B2,Fatal,Male,White,Hispanic or Latinx,f
+I152021830-00,2015-03-18 12:30:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152023517-00,2015-03-23 22:02:00+00,A7,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152025357-00,2015-03-28 20:48:08+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I152025087-00,2015-03-27 14:44:43+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152025018-00,2015-03-27 18:40:00+00,B2,Non-Fatal,Male,White,Not Hispanic or Latinx,t
+I152025097-00,2015-03-27 10:54:14+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152026045-00,2015-03-31 11:26:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152026103-00,2015-03-31 11:26:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152026538-00,2015-04-01 20:29:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152027279-00,2015-04-03 23:15:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152027279-00,2015-04-03 23:15:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152028043-00,2015-04-06 21:17:12+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152028582-00,2015-04-08 20:21:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152028599-00,2015-04-08 20:20:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152028762-00,2015-04-09 15:45:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152029808-00,2015-04-12 21:51:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152029808-00,2015-04-12 21:51:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152033518-00,2015-04-24 23:00:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152034171-00,2015-04-27 10:15:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I152034689-00,2015-04-28 17:53:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152035802-00,2015-05-02 15:08:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152036137-00,2015-05-03 19:30:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152036159-00,2015-05-03 20:02:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152036563-00,2015-05-05 04:03:00+00,E5,Non-Fatal,Male,Unknown,Unknown,f
+I152038380-00,2015-05-10 13:40:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152037866-00,2015-05-08 11:44:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152037218-00,2015-05-07 04:00:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152037334-00,2015-05-07 13:31:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152038963-00,2015-05-12 18:39:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152039988-00,2015-05-15 23:47:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152040876-00,2015-05-18 21:21:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152041419-00,2015-05-20 11:09:35+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152041784-00,2015-05-21 17:56:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152041857-00,2015-05-21 21:00:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I152042211-00,2015-05-23 00:50:09+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152042681-00,2015-05-24 16:16:27+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152042637-00,2015-05-24 16:16:30+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,t
+I152042638-00,2015-05-24 16:23:11+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152042765-00,2015-05-25 01:15:36+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152043193-00,2015-05-26 13:33:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152044761-00,2015-05-30 19:22:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152044549-00,2015-05-30 02:48:00+00,A1,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152044413-00,2015-05-29 18:00:00+00,A7,Non-Fatal,Female,White,Hispanic or Latinx,f
+I152045258,2015-06-01 14:42:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152047934,2015-06-10 05:06:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152048250,2015-06-10 23:44:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152048254,2015-06-10 23:44:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152048199,2015-06-10 19:53:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152048592,2015-06-12 04:13:42+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152048902,2015-06-13 00:42:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152049143,2015-06-13 20:40:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152050036,2015-06-16 20:41:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152050036,2015-06-16 20:41:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152050036,2015-06-16 20:41:00+00,B2,Non-Fatal,Male,Asian,Not Hispanic or Latinx,t
+I152050961,2015-06-19 21:20:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I152051161,2015-06-20 16:00:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152052391,2015-06-24 19:44:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152052766,2015-06-26 02:08:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I152052674,2015-06-25 18:28:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152053353,2015-06-27 23:41:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152053302,2015-06-27 19:38:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152053337,2015-06-27 22:59:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152054324,2015-07-01 14:30:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152054787,2015-07-02 23:08:00+00,B2,Fatal,Male,Black or African American,Hispanic or Latinx,t
+I152054787,2015-07-02 23:08:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152054740,2015-07-02 18:23:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+I152054740,2015-07-02 18:23:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152055092,2015-07-04 01:36:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,t
+I152055092,2015-07-04 01:36:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,t
+I152055102,2015-07-04 02:19:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,t
+I152055311,2015-07-04 22:47:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152055311,2015-07-04 22:47:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152055319,2015-07-05 00:40:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152055319,2015-07-05 00:40:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I150356925,2015-07-04 03:15:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152055577,2015-07-05 23:39:13+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152055608,2015-07-06 03:29:00+00,C6,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152056444,2015-07-08 17:50:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I150373043,2015-07-11 17:57:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152057410,2015-07-11 22:50:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152057392,2015-07-11 22:14:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152057567,2015-07-12 16:25:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152057685,2015-07-13 12:33:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152057684,2015-07-12 23:47:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152057684,2015-07-12 23:47:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152058305,2015-07-14 18:52:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152059221,2015-07-17 20:05:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152059273,2015-07-17 23:57:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152059273,2015-07-17 23:57:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152059526,2015-07-19 00:09:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152060108,2015-07-20 23:06:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152059883,2015-07-20 10:35:00+00,E5,Fatal,Male,White,Hispanic or Latinx,f
+I152060642,2015-07-22 18:56:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I152061055,2015-07-24 01:30:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152061546,2015-07-25 15:26:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152061546,2015-07-25 15:26:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152062504,2015-07-28 22:32:00+00,B2,Fatal,Female,Black or African American,Hispanic or Latinx,f
+I152061904,2015-07-27 00:09:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152061904,2015-07-27 00:09:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152061904,2015-07-27 00:09:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152058960,2015-07-16 23:32:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+I152058960,2015-07-16 23:32:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152062772,2015-07-29 21:15:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152062772,2015-07-29 21:15:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152063927,2015-08-02 23:42:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152063597,2015-08-01 18:08:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152063708,2015-08-02 03:38:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152064063,2015-08-03 12:43:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152064063,2015-08-03 12:43:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152064063,2015-08-03 12:43:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152065478,2015-08-08 02:15:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152065459,2015-08-08 00:01:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152065731,2015-08-09 01:04:00+00,B2,Non-Fatal,Female,White,Hispanic or Latinx,f
+I152066828,2015-08-12 22:14:00+00,E13,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152066828,2015-08-12 22:14:00+00,E13,Fatal,Male,White,Hispanic or Latinx,t
+I152066849,2015-08-12 12:32:03+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152066827,2015-08-12 22:18:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152066827,2015-08-12 22:18:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152066827,2015-08-12 22:18:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152067124,2015-08-13 23:35:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152067124,2015-08-13 23:35:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152067039,2015-08-13 16:35:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152068253,2015-08-18 00:01:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152067782,2015-08-16 12:23:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152067431,2015-08-15 00:30:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152067431,2015-08-15 00:30:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,t
+I152067405,2015-08-14 21:43:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152068856,2015-08-20 01:10:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152068848,2015-08-20 15:39:53+00,E5,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152069800,2015-08-23 01:45:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152070024,2015-08-24 00:57:02+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152070281,2015-08-24 21:55:00+00,C11,Non-Fatal,Female,Black or African American,Hispanic or Latinx,f
+I152071596,2015-08-29 02:42:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152071596,2015-08-29 02:42:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152071596,2015-08-29 02:42:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152071596,2015-08-29 02:42:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152071585,2015-08-29 01:46:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152071601,2015-08-29 02:32:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152073939,2015-09-06 01:14:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152073942,2015-09-06 01:54:00+00,D4,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152073942,2015-09-06 01:54:00+00,D4,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I152075106,2015-09-10 04:38:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152075954,2015-09-12 22:27:00+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152077031,2015-09-16 12:12:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+152078475,2015-09-21 00:14:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152078988,2015-09-22 16:33:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152079378,2015-09-23 20:40:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152079776,2015-09-25 01:44:00+00,E18,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I152080107,2015-09-26 01:10:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152080693,2015-09-28 04:59:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I152080898,2015-09-28 20:36:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152081264,2015-09-30 04:05:00+00,E18,Fatal,Male,White,Not Hispanic or Latinx,f
+I152082012,2015-10-02 18:12:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152082409,2015-10-04 04:14:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152085312,2015-10-14 02:20:00+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152081498,2015-09-30 22:12:00+00,A7,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152086458,2015-10-18 23:55:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152087906,2015-10-22 11:45:00+00,D14,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152088337,2015-10-24 09:00:00+00,E18,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152089426,2015-10-28 15:04:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152090710,2015-11-01 16:09:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152090355,2015-10-31 17:56:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152091104,2015-11-03 00:25:00+00,C11,Fatal,Male,White,Hispanic or Latinx,f
+I152092670,2015-11-08 00:01:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152094689,2015-11-14 16:55:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,t
+I152094666,2015-11-14 16:55:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+I152094639,2015-11-14 15:14:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152096420,2015-11-20 17:58:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,t
+I152096420,2015-11-20 17:58:00+00,E13,Fatal,Male,White,Hispanic or Latinx,t
+I152096809,2015-11-21 22:01:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152097955,2015-11-26 01:56:00+00,D14,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152097957,2015-11-26 02:00:00+00,D4,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152097957,2015-11-26 02:00:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152097957,2015-11-26 02:00:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152097957,2015-11-26 02:00:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152098594,2015-11-28 21:45:00+00,D4,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I152098729,2015-11-29 15:10:00+00,D4,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152098897,2015-11-30 12:19:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152100461,2015-12-05 12:55:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I152100585,2015-12-05 20:32:00+00,C6,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152100622,2015-12-05 23:10:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152101582,2015-12-09 01:32:00+00,D4,Fatal,Male,Black or African American,Hispanic or Latinx,f
+I152101840,2015-12-09 20:22:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152102506,2015-12-12 02:10:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I152085872,2015-10-15 23:14:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152103493,2015-12-15 16:32:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152103255,2015-12-14 20:01:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152103817,2015-12-16 17:59:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152103866,2015-12-16 21:54:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152103899,2015-12-17 00:45:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152103905,2015-12-17 02:12:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152104401,2015-12-18 16:00:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152105038,2015-12-20 21:41:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152105346,2015-12-21 21:45:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I152105891,2015-12-23 18:19:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152105851,2015-12-23 15:39:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I152105851,2015-12-23 15:14:54+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,t
+I152106846,2015-12-27 20:22:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152106597,2015-12-26 21:17:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152106575,2015-12-26 20:33:00+00,A15,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152106565,2015-12-26 19:27:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152106351,2015-12-25 17:27:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I152107190,2015-12-29 08:47:00+00,B3,Fatal,Male,White,Hispanic or Latinx,t
+I152107190,2015-12-29 08:47:00+00,B3,Non-Fatal,Male,White,Not Hispanic or Latinx,t
+I152107623,2015-12-30 22:56:00+00,A7,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I152107617,2015-12-30 21:55:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162000112,2016-01-01 05:30:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I162002449,2016-01-09 16:15:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162002052,2016-01-08 10:25:00+00,C11,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I162002573,2016-01-10 01:36:00+00,A7,Fatal,Male,White,Hispanic or Latinx,f
+I162003560,2016-01-13 19:36:24+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162003848,2016-01-14 21:30:42+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162004418,2016-01-16 22:05:23+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162004526,2016-01-17 12:17:38+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162005173,2016-01-20 20:20:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162006622,2016-01-25 14:38:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I162007065,2016-01-27 01:39:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162007640,2016-01-29 00:33:00+00,B3,Non-Fatal,Female,Black or African American,Hispanic or Latinx,f
+I162008969,2016-02-02 16:40:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162009661,2016-02-05 02:37:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162009661,2016-02-05 02:37:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162009550,2016-02-04 17:46:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162011468,2016-02-12 10:25:59+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162011468,2016-02-12 10:25:41+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162013434,2016-02-20 03:30:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162013862,2016-02-21 16:29:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162017441,2016-03-05 14:21:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162020921,2016-03-17 17:33:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I1620201821,2016-03-20 21:24:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162021886,2016-03-21 05:49:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162021886,2016-03-21 05:49:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162022418,2016-03-22 22:29:00+00,A7,Fatal,Male,White,Not Hispanic or Latinx,f
+I162022446,2016-03-22 23:33:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162022446,2016-03-22 23:33:00+00,E13,Non-Fatal,Female,Unknown,Unknown,t
+I162023617,2016-03-27 02:11:06+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162022759,2016-03-24 03:16:47+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162022863,2016-03-24 13:19:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162026598,2016-04-06 14:32:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162026728,2016-04-06 22:24:00+00,C6,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I162030585,2016-04-20 11:19:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162031072,2016-04-21 21:31:00+00,A15,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162031116,2016-04-22 02:38:00+00,D14,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I162031289,2016-04-22 18:05:58+00,C11,Non-Fatal,Female,White,Hispanic or Latinx,f
+I162031365,2016-04-22 23:15:12+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162032243,2016-04-25 22:52:39+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162032243,2016-04-25 22:52:57+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I162032844,2016-04-27 22:54:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162033066,2016-04-28 19:10:39+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162033354,2016-04-29 20:14:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162034516,2016-05-03 21:47:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,t
+I162034516,2016-05-03 21:47:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+I162035873,2016-05-08 16:59:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+I162036099,2016-05-09 15:48:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162038029,2016-05-15 23:13:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I162037770,2016-05-14 22:47:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162037747,2016-05-14 21:57:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I1062037733,2016-05-14 20:21:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162037458,2016-05-13 18:36:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I162038639,2016-05-17 22:16:00+00,D4,Non-Fatal,Male,White,Hispanic or Latinx,f
+I162039242,2016-05-19 21:51:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162039152,2016-05-19 17:07:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162041040,2016-05-25 23:19:00+00,A7,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I162039152,2016-05-19 17:07:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162041316,2016-05-26 19:29:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162042032,2016-05-29 03:59:55+00,A1,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162041974,2016-05-28 23:19:43+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162041694,2016-05-28 01:35:12+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+I162042228,2016-05-29 10:20:49+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162043232,2016-06-02 03:51:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162043217,2016-06-02 00:41:00+00,A7,Non-Fatal,Male,White,Hispanic or Latinx,f
+I162044119,2016-06-04 23:16:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162044152,2016-06-05 02:41:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162043871,2016-06-04 03:01:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162043842,2016-06-03 23:30:00+00,B3,Non-Fatal,Female,Unknown,Unknown,f
+I162043804,2016-06-03 21:07:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I160266914,2016-05-29 00:08:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I162045234,2016-06-08 13:16:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162045234,2016-06-08 13:16:00+00,B2,Fatal,Female,Black or African American,Hispanic or Latinx,t
+I162045234,2016-06-08 13:16:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162045234,2016-06-08 13:16:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162046995,2016-06-14 12:22:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162047077,2016-06-14 16:57:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162046888,2016-06-14 00:31:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162048538,2016-06-18 23:08:22+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162048538,2016-06-18 23:08:43+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162048551,2016-06-19 00:35:09+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162048551,2016-06-19 00:35:04+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162049094,2016-06-20 22:28:35+00,B2,Non-Fatal,Male,White,Not Hispanic or Latinx,t
+I162049094,2016-06-20 22:28:56+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162049089,2016-06-20 23:24:25+00,C6,Non-Fatal,Male,White,Hispanic or Latinx,f
+I162049376,2016-06-21 20:24:24+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162049388,2016-06-21 21:25:57+00,B3,Non-Fatal,Female,White,Hispanic or Latinx,f
+I162050266,2016-06-24 15:22:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162050762,2016-06-26 12:57:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162050393,2016-06-25 00:06:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162051465,2016-06-28 23:24:00+00,C6,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I162052637,2016-07-02 23:15:02+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162052935,2016-07-04 01:24:47+00,D4,Non-Fatal,Female,White,Not Hispanic or Latinx,f
+I162053206,2016-07-05 00:28:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I162053206,2016-07-05 00:28:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162053206,2016-07-05 00:28:00+00,B2,Non-Fatal,Female,Unknown,Unknown,t
+I162054043,2016-07-07 23:36:37+00,C11,Fatal,Male,Unknown,Unknown,t
+I162054043,2016-07-07 23:36:53+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I162054468,2016-07-09 00:02:40+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162054882,2016-07-10 15:48:44+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162054985,2016-07-10 23:48:44+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162055195,2016-07-11 17:27:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I162055281,2016-07-11 23:02:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I162055287,2016-07-11 23:03:00+00,C6,Non-Fatal,Female,Unknown,Unknown,f
+I162058558,2016-07-22 21:50:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162058557,2016-07-22 21:06:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162058281,2016-07-21 22:39:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162058298,2016-07-21 23:57:00+00,D14,Non-Fatal,Male,White,Hispanic or Latinx,f
+I162059512,2016-07-26 00:56:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162059501,2016-07-25 23:20:00+00,C11,Non-Fatal,Male,Unknown,Unknown,t
+I162059501,2016-07-25 23:20:00+00,C11,Non-Fatal,Male,Unknown,Unknown,t
+I162059839,2016-07-27 00:01:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162059839,2016-07-27 00:01:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162059839,2016-07-27 00:01:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162060990,2016-07-30 17:15:01+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162061073,2016-07-30 22:42:27+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162061140,2016-07-31 03:50:34+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I162061140,2016-07-31 03:50:30+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162060517,2016-07-29 00:53:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162064098,2016-08-09 11:20:52+00,B2,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I162065072,2016-08-12 23:38:31+00,B3,Fatal,Male,Unknown,Unknown,f
+I162064751,2016-08-11 23:39:16+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I162066023,2016-08-15 23:40:00+00,C6,Non-Fatal,Male,Unknown,Unknown,f
+I162066265,2016-08-17 06:55:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I162067011,2016-08-18 22:23:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162066921,2016-08-18 16:53:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162066921,2016-08-18 16:53:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162067634,2016-08-20 23:46:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I162067634,2016-08-20 23:46:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I162067634,2016-08-20 23:46:00+00,B3,Non-Fatal,Male,Unknown,Unknown,t
+I162067634,2016-08-20 23:46:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162067634,2016-08-20 23:46:00+00,B3,Non-Fatal,Male,Unknown,Unknown,t
+I162067894,2016-08-21 22:40:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+I162067346,2016-08-20 00:05:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162067346,2016-08-20 00:05:00+00,B2,Non-Fatal,Female,Unknown,Unknown,t
+I162069476,2016-08-27 03:33:25+00,E13,Fatal,Male,Unknown,Unknown,f
+I162069471,2016-08-27 01:39:35+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162069477,2016-08-27 02:51:15+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I162069440,2016-08-26 21:16:03+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162068906,2016-08-25 00:59:44+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I162068258,2016-08-23 02:15:54+00,B3,Non-Fatal,Male,Asian,Not Hispanic or Latinx,f
+I162072272,2016-09-05 01:41:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162071993,2016-09-03 08:45:25+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162071653,2016-09-02 21:10:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+ I162070706,2016-08-30 21:28:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162072280,2016-09-05 02:12:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I162073342,2016-09-08 22:46:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162073020,2016-09-07 19:44:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162073682,2016-09-10 00:55:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162073682,2016-09-10 00:55:00+00,D4,Non-Fatal,Female,White,Hispanic or Latinx,t
+I162073953,2016-09-10 23:07:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162074754,2016-09-13 16:47:39+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162076074,2016-09-17 18:57:17+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162075905,2016-09-17 02:17:38+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162075905,2016-09-17 02:17:32+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162075905,2016-09-17 02:17:17+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162076439,2016-09-18 22:10:15+00,D14,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162077078,2016-09-20 20:06:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162077070,2016-09-20 20:34:28+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162077092,2016-09-20 20:34:27+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+I162077407,2016-09-21 21:16:40+00,B3,Non-Fatal,Male,Unknown,Unknown,f
+I162077614,2016-09-22 16:24:19+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162078402,2016-09-25 14:08:14+00,D4,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I162078997,2016-09-27 00:56:47+00,E13,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162080713,2016-10-02 16:47:43+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162080292,2016-10-01 04:32:12+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162081928,2016-10-06 18:36:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162081907,2016-10-06 17:30:48+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162082657,2016-10-08 22:56:53+00,E13,Fatal,Male,White,Not Hispanic or Latinx,f
+I162082684,2016-10-09 01:03:01+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I162082704,2016-10-09 03:30:48+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I162083769,2016-10-12 22:51:13+00,A7,Non-Fatal,Male,White,Hispanic or Latinx,t
+I162083769,2016-10-12 22:51:14+00,A7,Non-Fatal,Male,White,Hispanic or Latinx,t
+I162084852,2016-10-16 19:36:35+00,E13,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I162084533,2016-10-15 15:58:44+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I162085177,2016-10-17 20:55:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162085432,2016-10-18 17:42:58+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162085838,2016-10-19 22:52:39+00,B2,Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I162086029,2016-10-20 15:40:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162086460,2016-10-22 14:30:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162086825,2016-10-23 11:30:00+00,E18,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162088581,2016-10-29 14:27:35+00,C11,Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I162088581,2016-10-29 14:27:20+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162088605,2016-10-29 16:24:05+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162087894,2016-10-26 23:51:29+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162087131,2016-10-24 13:33:49+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162089429,2016-11-01 14:16:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162090282,2016-11-04 00:04:36+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162090277,2016-11-03 23:45:20+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I162090649,2016-11-05 10:10:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162090597,2016-11-05 00:39:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162090599,2016-11-05 01:16:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+I162091087,2016-11-06 19:47:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I162091158,2016-11-07 02:40:37+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162091710,2016-11-08 22:45:28+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162092746,2016-11-12 16:46:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162092746,2016-11-12 16:46:46+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162092748,2016-11-12 17:46:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I162092748,2016-11-12 17:46:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I162092494,2016-11-11 17:27:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162093213,2016-11-14 14:55:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162093358,2016-11-14 23:31:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162093473,2016-11-15 12:16:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162094630,2016-11-19 02:54:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162095771,2016-11-22 23:51:00+00,B2,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I162097703,2016-11-30 14:20:00+00,C11,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I162097868,2016-12-01 06:23:29+00,A1,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162098159,2016-12-01 23:51:09+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I162097972,2016-12-01 13:30:56+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162098714,2016-12-03 19:16:58+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162098343,2016-12-02 15:08:27+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162098292,2016-12-02 13:30:32+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162098498,2016-12-03 00:12:00+00,E18,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162100329,2016-12-09 04:09:00+00,E13,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I162100193,2016-12-08 17:06:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162101004,2016-12-11 16:13:00+00,B2,Non-Fatal,Male,White,Not Hispanic or Latinx,t
+I162101004,2016-12-11 16:13:00+00,B2,Non-Fatal,Male,White,Not Hispanic or Latinx,t
+I162101031,2016-12-11 18:19:00+00,D4,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I162101528,2016-12-13 12:45:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I162101528,2016-12-13 12:45:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I162101338,2016-12-12 14:55:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162101338,2016-12-12 20:03:00+00,C6,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I162102801,2016-12-17 20:08:14+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162104173,2016-12-22 16:52:00+00,B3,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I162104474,2016-12-23 18:15:21+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162105651,2016-12-28 22:00:04+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I162106131,2016-12-30 16:29:57+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172000047,2017-01-01 02:27:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,t
+I172000047,2017-01-01 02:27:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,t
+I172002024,2017-01-08 13:44:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172002902,2017-01-11 18:45:43+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172002902,2017-01-11 18:45:52+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172002970,2017-01-11 22:29:47+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172002376,2017-01-09 19:27:14+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172004542,2017-01-17 22:05:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172005603,2017-01-21 16:45:00+00,C11,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I172005625,2017-01-21 18:34:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172005430,2017-01-21 02:19:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172005430,2017-01-21 02:19:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172006241,2017-01-23 21:43:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172007832,2017-01-29 07:03:07+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I172007456,2017-01-27 22:48:22+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172008070,2017-01-30 06:24:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172008274,2017-01-30 18:39:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172009839,2017-02-05 17:49:00+00,C11,Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I172009433,2017-02-04 00:17:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I172010342,2017-02-07 20:12:07+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I172013903,2017-02-20 14:08:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172014254,2017-02-21 17:09:00+00,B2,Fatal,Male,Black or African American,Hispanic or Latinx,f
+I172014595,2017-02-22 20:50:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172014595,2017-02-22 20:50:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172014851,2017-02-23 21:59:32+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172014754,2017-02-23 15:33:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172016312,2017-02-28 18:16:15+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172018486,2017-03-08 15:51:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172019108,2017-03-10 16:36:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172020425,2017-03-15 22:03:29+00,A15,Non-Fatal,Female,White,Not Hispanic or Latinx,f
+I172024478,2017-03-29 19:56:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I172023114,2017-03-24 21:37:00+00,B3,Non-Fatal,Female,White,Hispanic or Latinx,f
+I172024077,2017-03-28 13:00:53+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172024785,2017-03-30 19:20:14+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172026026,2017-04-03 23:07:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172026760,2017-04-06 15:10:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172027171,2017-04-07 21:05:38+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172027171,2017-04-07 21:05:50+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I172028061,2017-04-11 08:40:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172028270,2017-04-11 19:44:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172028584,2017-04-12 19:59:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172028574,2017-04-12 19:34:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172028837,2017-04-13 16:13:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172029267,2017-04-15 01:18:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172029428,2017-04-15 16:54:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152061366,2015-07-24 23:54:47+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172029794,2017-04-17 00:48:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172031211,2017-04-21 20:53:00+00,B2,Fatal,Male,Black or African American,Hispanic or Latinx,f
+I172031721,2017-04-23 20:33:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172031721,2017-04-23 20:33:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I172031736,2017-04-23 22:13:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I172031740,2017-04-23 22:52:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172031688,2017-04-23 18:40:00+00,E13,Non-Fatal,Female,White,Hispanic or Latinx,f
+I152042735-00,2015-05-24 23:27:49+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I152043021-00,2015-05-25 23:04:35+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172032046,2017-04-24 20:01:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172032046,2017-04-24 20:01:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172032306,2017-04-25 18:23:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172033610,2017-04-30 00:06:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172033274,2017-04-28 22:28:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172033274,2017-04-28 22:28:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172033274,2017-04-28 22:28:00+00,C11,Non-Fatal,Male,White,Not Hispanic or Latinx,t
+I172032945,2017-04-27 21:57:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172034834,2017-05-03 21:54:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172034834,2017-05-03 21:54:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I172035478,2017-05-05 21:35:38+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172035784,2017-05-07 02:04:01+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172037777,2017-05-13 22:57:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172037641,2017-05-13 13:40:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I172037641,2017-05-13 13:40:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172036626,2017-05-09 23:33:00+00,C6,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172036620,2017-05-09 22:36:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172040229,2017-05-21 22:10:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172040210,2017-05-21 20:55:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172039930,2017-05-20 20:16:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172039041,2017-05-18 01:48:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172040839,2017-05-23 22:52:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172041785,2017-05-26 22:05:40+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172041830,2017-05-27 02:36:15+00,A1,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172041368,2017-05-25 15:02:10+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I172044027,2017-06-03 14:24:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172044102,2017-06-03 18:38:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172043809,2017-06-02 17:58:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172043809,2017-06-02 17:58:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172045331,2017-06-07 21:56:00+00,D4,Non-Fatal,Female,White,Hispanic or Latinx,f
+I172045333,2017-06-07 22:07:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172045363,2017-06-07 22:28:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172045363,2017-06-07 22:28:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172045372,2017-06-08 01:42:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172046423,2017-06-11 12:48:28+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172046001,2017-06-10 01:02:23+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172045999,2017-06-10 00:33:13+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172045865,2017-06-09 15:32:44+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172046900,2017-06-12 20:44:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172046848,2017-06-12 17:44:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172047249,2017-06-13 18:59:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172047604,2017-06-14 18:11:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172048352,2017-06-16 22:32:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I172048679,2017-06-18 03:02:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I172048679,2017-06-18 03:02:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172049184,2017-06-19 20:30:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172049184,2017-06-19 20:30:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172050864,2017-06-25 00:11:00+00,E13,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I172050866,2017-06-25 00:10:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172050746,2017-06-24 16:29:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172051446,2017-06-26 19:27:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172051378,2017-06-26 16:14:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172051926,2017-06-28 09:52:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172052230,2017-06-29 02:11:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172052541,2017-06-30 00:42:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,t
+I172052541,2017-06-30 00:42:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,t
+I172052482,2017-06-29 20:30:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172052482,2017-06-29 20:30:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+I172053412,2017-07-02 23:10:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172053412,2017-07-02 23:10:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I172053412,2017-07-02 23:10:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172053409,2017-07-02 23:15:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172053177,2017-07-02 02:32:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172053026,2017-07-01 15:24:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172054029,2017-07-05 02:36:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172053885,2017-07-04 16:54:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172053819,2017-07-04 09:56:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+172053760,2017-07-04 01:36:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I172053750,2017-07-03 23:37:00+00,D4,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+I172053750,2017-07-03 23:37:00+00,D4,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I172053750,2017-07-03 23:37:00+00,D4,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I172054407,2017-07-06 00:22:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172054624,2017-07-06 18:44:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172054624,2017-07-06 18:44:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172054477,2017-07-06 10:38:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172054982,2017-07-07 22:43:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172055874,2017-07-10 21:45:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172055848,2017-07-10 19:25:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172056146,2017-07-11 19:32:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172056326,2017-07-12 12:01:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172057407,2017-07-15 22:51:37+00,D4,Fatal,Male,White,Hispanic or Latinx,f
+I172057488,2017-07-16 08:54:23+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172057678,2017-07-16 22:11:10+00,C11,Fatal,Male,White,Not Hispanic or Latinx,f
+I172056811,2017-07-13 22:26:40+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172058042,2017-07-17 23:42:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I172057934,2017-07-17 17:23:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172057934,2017-07-17 17:23:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172059929,2017-07-24 01:04:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172058490,2017-07-19 11:35:49+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172058253,2017-07-18 16:17:23+00,B2,Fatal,Male,White,Not Hispanic or Latinx,f
+I172061068,2017-07-27 16:00:59+00,D4,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172062010,2017-07-30 19:21:13+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172061771,2017-07-29 21:23:17+00,B2,Non-Fatal,Male,Asian,Not Hispanic or Latinx,f
+I172061724,2017-07-29 18:05:08+00,C6,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I172062015,2017-07-30 19:21:31+00,E18,Non-Fatal,Male,Unknown,Unknown,f
+I172062994,2017-08-02 16:02:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172064337,2017-08-06 22:28:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172064657,2017-08-07 19:00:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172065378,2017-08-09 22:33:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172065378,2017-08-09 22:33:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172066626,2017-08-13 23:29:41+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172066626,2017-08-13 23:29:22+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172066494,2017-08-13 13:59:55+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172066370,2017-08-12 23:09:14+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172065913,2017-08-11 15:03:52+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172067867,2017-08-17 15:43:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172068204,2017-08-18 17:30:00+00,D4,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I172068552,2017-08-19 19:46:00+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172068555,2017-08-19 20:40:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I172068602,2017-08-20 00:03:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172068602,2017-08-20 00:03:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I172068628,2017-08-20 02:17:00+00,A1,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172068628,2017-08-20 02:17:00+00,A1,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172068857,2017-08-20 21:39:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172072578,2017-09-01 18:28:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172073486,2017-09-05 10:46:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172074007,2017-09-06 23:15:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172075277,2017-09-10 22:23:00+00,C11,Fatal,Female,White,Not Hispanic or Latinx,f
+I172075240,2017-09-10 21:14:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172075218,2017-09-10 19:21:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172075218,2017-09-10 19:21:59+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172074561,2017-09-08 17:00:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172075842,2017-09-12 18:47:00+00,A1,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172075882,2017-09-12 21:16:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172076568,2017-09-15 23:57:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I172076580,2017-09-15 01:12:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172077221,2017-09-16 21:43:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172076865,2017-09-15 19:15:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172077463,2017-09-17 17:52:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172077711,2017-09-18 13:59:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172079527,2017-09-24 06:39:00+00,C6,Fatal,Male,Black or African American,Hispanic or Latinx,f
+I172079426,2017-09-23 22:08:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172079451,2017-09-23 22:08:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172079368,2017-09-23 17:52:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172078541,2017-09-21 12:21:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172081437,2017-09-29 19:51:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172081419,2017-09-29 19:05:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172081490,2017-09-30 00:53:00+00,B2,Non-Fatal,Female,White,Hispanic or Latinx,t
+I172081490,2017-09-30 00:53:00+00,B2,Non-Fatal,Male,White,Not Hispanic or Latinx,t
+I172081720,2017-09-30 23:41:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172081919,2017-10-01 16:41:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172081989,2017-10-01 21:57:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172082312,2017-10-03 02:23:00+00,D4,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I172084330,2017-10-09 22:02:44+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172083822,2017-10-07 22:36:01+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172025670,2017-04-02 21:28:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172085057,2017-10-12 01:41:14+00,E18,Non-Fatal,Female,White,Not Hispanic or Latinx,f
+I172085715,2017-10-14 02:11:13+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172086572,2017-10-17 04:15:00+00,C6,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172087162,2017-10-18 22:51:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172087117,2017-10-18 21:11:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172087538,2017-10-20 00:22:00+00,C11,Fatal,Male,White,Hispanic or Latinx,f
+I172088148,2017-10-22 00:08:00+00,A7,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172090526,2017-10-29 20:22:00+00,C6,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172089911,2017-10-27 18:49:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I172089929,2017-10-27 18:59:00+00,B2,Non-Fatal,Female,Black or African American,Hispanic or Latinx,t
+I172089929,2017-10-27 18:59:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I172089961,2017-10-27 21:42:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I172089976,2017-10-27 22:45:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172090013,2017-10-28 01:03:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172090013,2017-10-28 01:03:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172090013,2017-10-28 01:03:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172090493,2017-10-29 18:24:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172091222,2017-10-31 23:47:00+00,E13,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172093007,2017-11-06 20:05:00+00,D4,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172092857,2017-11-06 21:03:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172093656,2017-11-09 01:26:00+00,B2,Non-Fatal,Male,Asian,Not Hispanic or Latinx,f
+I172093639,2017-11-08 22:13:00+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172093639,2017-11-09 23:17:48+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172096494,2017-11-19 16:09:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172096406,2017-11-18 20:09:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172096197,2017-11-18 00:27:00+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172098079,2017-11-25 14:11:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172098008,2017-11-25 06:42:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172097866,2017-11-24 16:13:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172098716,2017-11-27 23:19:00+00,C6,Fatal,Male,White,Hispanic or Latinx,t
+I172098716,2017-11-27 23:19:00+00,C6,Non-Fatal,Male,White,Hispanic or Latinx,t
+I172099946,2017-12-01 23:47:02+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172099808,2017-12-01 14:00:58+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172100477,2017-12-03 19:45:04+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+172100800,2017-12-04 21:50:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172101534,2017-12-07 13:18:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172101621,2017-12-07 17:35:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172101691,2017-12-07 19:45:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172101369,2017-12-06 19:50:00+00,B2,Fatal,Male,White,Hispanic or Latinx,t
+I172101369,2017-12-06 19:50:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172101369,2017-12-06 19:50:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172102399,2017-12-10 16:41:00+00,A7,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172102399,2017-12-10 16:41:00+00,A7,Non-Fatal,Male,White,Hispanic or Latinx,t
+I172102009,2017-12-09 00:21:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172104058,2017-12-16 20:29:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I172104020,2017-12-16 17:33:00+00,D14,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172104064,2017-12-16 21:09:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172103321,2017-12-14 04:58:43+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172104845,2017-12-19 19:16:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172105110,2017-12-20 16:57:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172105110,2017-12-20 16:57:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172106125,2017-12-24 21:08:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172106158,2017-12-25 01:11:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172106098,2017-12-24 19:29:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I172106098,2017-12-24 19:29:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172105931,2017-12-23 22:45:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172105897,2017-12-23 19:31:00+00,E18,Non-Fatal,Male,White,Hispanic or Latinx,f
+I172107017,2017-12-28 23:25:18+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172107017,2017-12-28 23:25:31+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172107017,2017-12-28 23:25:09+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I172107441,2017-12-30 19:31:34+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182000200,2018-01-01 21:00:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182002293,2018-01-09 21:23:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182002786,2018-01-11 13:46:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182002801,2018-01-11 14:03:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182002867,2018-01-11 19:14:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182002801,2018-01-11 14:03:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182002867,2018-01-11 19:14:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+I182003512,2018-01-13 21:31:47+00,D4,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182003512,2018-01-13 21:31:32+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182003609,2018-01-14 10:57:33+00,D4,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182003714,2018-01-14 17:30:25+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182005329,2018-01-20 20:52:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182005519,2018-01-21 17:41:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182004802,2018-01-18 19:06:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182006824,2018-01-26 13:31:21+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182007254,2018-01-28 01:23:17+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I182007236,2018-01-28 22:46:55+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182008316,2018-01-31 21:36:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182008982,2018-02-03 13:46:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182008982,2018-02-03 13:46:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182009897,2018-02-06 19:54:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182011422,2018-02-12 19:09:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182011931,2018-02-14 18:43:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182013270,2018-02-19 23:20:00+00,D14,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182012830,2018-02-17 23:18:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182012830,2018-02-17 23:18:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182013918,2018-02-22 00:13:00+00,C6,Fatal,Male,White,Hispanic or Latinx,f
+I182014711,2018-02-28 04:37:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182014658,2018-02-24 21:51:00+00,B2,Non-Fatal,Female,Black or African American,Hispanic or Latinx,f
+I182019313,2018-03-14 16:12:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I182019313,2018-03-14 16:12:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I182022142,2018-03-25 02:48:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182022093,2018-03-24 21:11:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182022623,2018-03-26 20:58:51+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182022956,2018-03-28 01:05:21+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I182023744,2018-03-30 10:17:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182023600,2018-03-30 09:03:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182023966,2018-03-31 15:55:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182024317,2018-04-02 00:38:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182024815,2018-04-03 16:56:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182025114,2018-04-04 17:02:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182025532,2018-04-05 23:38:00+00,C6,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182025516,2018-04-05 22:35:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182025962,2018-04-07 17:37:00+00,E18,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182026805,2018-04-10 18:57:29+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+I182026805,2018-04-10 18:57:33+00,B2,Non-Fatal,Female,Black or African American,Hispanic or Latinx,t
+I182028394,2018-04-16 13:02:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182031717,2018-04-28 02:45:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182031562,2018-04-27 14:30:00+00,D4,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182031968,2018-04-29 00:41:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I182033040,2018-05-02 16:45:00+00,A1,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182033779,2018-05-04 21:41:00+00,E13,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182033779,2018-05-04 21:41:00+00,E13,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182033510,2018-05-04 05:07:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182033842,2018-05-05 02:14:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182033812,2018-05-05 00:05:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182035240,2018-05-09 16:40:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182036836,2018-05-15 10:39:00+00,B3,Fatal,Male,Unknown,Unknown,f
+I182036730,2018-05-14 22:28:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182038022,2018-05-19 01:35:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182037657,2018-05-17 21:24:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182037657,2018-05-17 21:24:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182038763,2018-05-21 08:30:59+00,C11,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I182042418,2018-06-01 23:53:00+00,A7,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I172105745,2017-12-23 03:13:02+00,C11,Fatal,Male,White,Not Hispanic or Latinx,f
+I182043486,2018-06-05 18:38:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I182043561,2018-06-05 22:49:00+00,C11,Fatal,Male,White,Hispanic or Latinx,f
+I182045071,2018-06-10 22:53:22+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182044554,2018-06-09 00:45:29+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I182044546,2018-06-09 00:08:45+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182044546,2018-06-09 00:08:43+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I182044546,2018-06-09 00:08:30+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I182044546,2018-06-09 00:08:29+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182044821,2018-06-09 23:53:25+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182044559,2018-06-08 23:56:53+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182044393,2018-06-08 13:00:44+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182045765,2018-06-12 22:45:00+00,E18,Non-Fatal,Male,Unknown,Unknown,f
+I182049008,2018-06-23 02:57:32+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182049671,2018-06-25 12:42:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182050499,2018-06-27 18:53:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182050499,2018-06-27 18:53:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182050499,2018-06-27 18:53:00+00,C11,Non-Fatal,Male,Unknown,Unknown,t
+I182051210,2018-06-30 00:41:00+00,D14,Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I182051210,2018-06-30 00:41:00+00,D14,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182051482,2018-06-30 23:46:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182051203,2018-06-30 00:16:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182051203,2018-06-30 00:16:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182052372,2018-07-04 00:16:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182052365,2018-07-03 23:39:00+00,B2,Fatal,Male,White,Hispanic or Latinx,f
+I182052602,2018-07-04 21:50:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182052553,2018-07-04 18:40:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182052553,2018-07-04 18:40:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182052553,2018-07-04 18:40:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182052553,2018-07-04 18:40:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182053289,2018-07-06 23:36:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182053414,2018-07-07 15:06:00+00,B2,Fatal,Male,White,Hispanic or Latinx,f
+I182053533,2018-07-07 23:33:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182054207,2018-07-10 13:05:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182054067,2018-07-09 21:06:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182053955,2018-07-09 16:02:00+00,D4,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I182055198,2018-07-13 14:01:34+00,E13,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I182056227,2018-07-17 11:34:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I182057654,2018-07-22 04:24:00+00,E18,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182057654,2018-07-22 04:24:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182058179,2018-07-23 21:41:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182058835,2018-07-25 22:57:00+00,B3,Fatal,Male,White,Hispanic or Latinx,t
+I182058835,2018-07-25 22:57:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,t
+I182060366,2018-07-31 02:17:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I182060309,2018-07-30 21:31:00+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182061280,2018-08-02 21:54:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182061887,2018-08-04 22:53:00+00,D14,Non-Fatal,Female,White,Hispanic or Latinx,f
+I182061662,2018-08-04 02:12:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182062147,2018-08-05 23:18:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182060953,2018-08-01 23:27:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182062810,2018-08-08 01:01:18+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182064056,2018-08-11 23:14:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182064331,2018-08-12 22:52:00+00,D14,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182064319,2018-08-12 21:18:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182064057,2018-08-11 22:28:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I182063831,2018-08-11 05:43:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182064699,2018-08-14 09:48:45+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182064699,2018-08-14 09:48:36+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182064699,2018-08-14 09:48:09+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182066420,2018-08-19 22:46:00+00,A15,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182067317,2018-08-22 19:12:00+00,B2,Fatal,Male,White,Hispanic or Latinx,f
+I182068876,2018-08-27 22:56:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182069509,2018-08-29 23:19:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182070186,2018-09-01 05:22:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182070974,2018-09-03 23:48:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182070957,2018-09-03 21:38:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182070806,2018-09-03 12:23:08+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182070720,2018-09-03 01:00:00+00,C11,Non-Fatal,Female,White,Hispanic or Latinx,t
+I182070720,2018-09-03 01:00:00+00,C11,Non-Fatal,Male,White,Not Hispanic or Latinx,t
+I182071566,2018-09-05 07:01:00+00,E13,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I182074555,2018-09-15 20:12:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182074555,2018-09-15 20:12:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182074638,2018-09-16 03:17:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182074372,2018-09-15 03:35:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182074372 ,2018-09-15 03:35:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182075690,2018-09-19 14:18:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I182076074,2018-09-20 17:10:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182076789,2018-09-22 21:46:00+00,E13,Fatal,Male,White,Hispanic or Latinx,f
+I182077113,2018-09-24 06:20:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182076987,2018-09-23 13:53:00+00,D4,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I182078893,2018-09-28 21:12:20+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182078872,2018-09-29 19:21:15+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182078305,2018-09-27 20:48:24+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182077958,2018-09-26 20:20:08+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182077846,2018-09-26 14:45:04+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182079821,2018-10-03 08:02:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182079788,2018-10-03 04:31:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182079783,2018-10-03 12:30:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I182080411,2018-10-05 03:31:00+00,C6,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182080608,2018-10-05 17:03:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182080649,2018-10-05 18:48:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182080649,2018-10-05 18:48:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182080674,2018-10-05 21:52:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182080967,2018-10-06 23:38:00+00,C11,Fatal,Male,Black or African American,Hispanic or Latinx,f
+I182080989,2018-10-07 02:28:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182081058,2018-10-07 11:28:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182082103,2018-10-10 23:54:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182082113,2018-10-11 02:08:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182082677,2018-10-12 21:33:48+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182083100,2018-10-14 15:13:01+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182082967,2018-10-13 22:24:34+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182082735,2018-10-13 03:20:01+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182083479,2018-10-15 21:36:00+00,C11,Fatal,Female,Black or African American,Hispanic or Latinx,f
+I182082398,2018-10-12 01:45:00+00,A7,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I182084648,2018-10-19 21:44:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182084906,2018-10-20 20:03:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182084723,2018-10-20 08:08:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182086270,2018-10-25 17:12:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182086671,2018-10-27 01:45:00+00,A1,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182087228,2018-10-29 02:24:00+00,A1,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I182087516,2018-10-30 03:02:00+00,A1,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182089567,2018-11-05 19:56:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182090467,2018-11-08 10:11:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I182091712,2018-11-13 00:27:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182092361,2018-11-15 05:59:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182093233,2018-11-18 01:57:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182093688,2018-11-19 17:45:00+00,E13,Fatal,Female,Unknown,Unknown,f
+I182093742,2018-11-19 21:33:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I182094352,2018-11-22 01:14:00+00,E13,Fatal,Male,White,Hispanic or Latinx,f
+I182093742,2018-11-19 21:33:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182093742,2018-11-19 21:33:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I182094714,2018-11-24 01:35:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182095652,2018-11-27 23:06:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182075255,2018-09-18 02:38:26+00,A7,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I182097014,2018-12-01 22:00:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182096701,2018-11-30 19:06:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182070177,2018-09-01 03:20:12+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182081712,2018-10-09 19:46:41+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182084402,2018-10-18 23:45:09+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182099711,2018-12-10 22:14:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182100721,2018-12-14 14:43:57+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182102684,2018-12-21 00:34:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182103426,2018-12-23 19:28:38+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182102892,2018-12-21 20:15:15+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182102973,2018-12-22 00:17:03+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I182104066,2018-12-27 00:34:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182104066,2018-12-27 00:34:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182104066,2018-12-27 00:34:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I182104797,2018-12-30 03:00:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I182105141,2018-12-31 14:14:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192000054,2019-01-01 03:05:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192000084,2019-01-01 04:25:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I192001666,2019-01-06 23:01:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192002129,2019-01-08 16:31:48+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192002384,2019-01-09 14:46:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192003016,2019-01-11 19:30:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192003069,2019-01-11 23:06:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+I192004854,2019-01-18 15:47:00+00,E13,Fatal,Male,White,Hispanic or Latinx,t
+I192004854,2019-01-18 15:47:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,t
+I192005158,2019-01-19 23:57:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192005063,2019-01-19 14:21:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192006053,2019-01-23 18:50:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192006868,2019-01-26 17:10:00+00,B3,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I192007720,2019-01-29 20:47:00+00,B2,Non-Fatal,Male,Asian,Not Hispanic or Latinx,f
+I192008538,2019-02-02 01:45:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I192008843,2019-02-03 09:55:00+00,B3,Fatal,Male,White,Hispanic or Latinx,f
+I192009132,2019-02-04 12:35:00+00,D4,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192009502,2019-02-05 18:03:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192009691,2019-02-06 13:21:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I192010119,2019-02-07 21:34:00+00,A7,Non-Fatal,Male,Unknown,Unknown,f
+I192010441,2019-02-09 00:10:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192012410,2019-02-16 19:31:32+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192013647,2019-02-22 02:20:00+00,B2,Non-Fatal,Male,Unknown,Unknown,f
+I192015793,2019-03-02 02:59:44+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192017963,2019-03-11 00:26:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192018395,2019-03-12 15:30:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192019011,2019-03-14 17:58:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192018923,2019-03-14 12:34:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I192019875,2019-03-17 19:18:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192019821,2019-03-17 16:15:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192020870,2019-03-21 11:38:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192023598,2019-03-31 03:14:00+00,E18,Non-Fatal,Male,White,Hispanic or Latinx,f
+I192023577,2019-03-31 02:55:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I192024972,2019-04-05 02:07:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192024890,2019-04-04 19:08:00+00,E13,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I192025403,2019-04-06 16:56:00+00,B3,Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I192025403,2019-04-06 16:56:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192025403,2019-04-06 16:56:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192025673,2019-04-07 18:05:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192025484,2019-04-06 23:18:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192027638,2019-04-14 19:14:00+00,A15,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I192027439,2019-04-13 23:07:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192027439,2019-04-13 23:07:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192032179,2019-05-01 18:26:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192032179,2019-05-01 18:26:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192032179,2019-05-01 18:26:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192032179,2019-05-01 18:26:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192033527,2019-05-06 17:07:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192034557,2019-05-09 21:27:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192034557,2019-05-09 21:27:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192033997,2019-05-08 10:00:05+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192035092,2019-05-11 19:17:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192036276,2019-05-15 21:52:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192037314,2019-05-19 12:16:00+00,A1,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I192037215,2019-05-19 01:00:00+00,A15,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I192038009,2019-05-21 21:15:00+00,A7,Non-Fatal,Male,Unknown,Unknown,t
+I192038009,2019-05-21 21:15:00+00,A7,Non-Fatal,Male,Unknown,Unknown,t
+I192037998,2019-05-22 20:42:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192039068,2019-05-25 02:51:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192039535,2019-05-27 00:04:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192041160,2019-06-01 14:17:00+00,B2,Non-Fatal,Male,Unknown,Unknown,f
+I192041304,2019-06-02 00:43:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I192041304,2019-06-02 00:43:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I192041233,2019-06-01 16:55:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I192041946,2019-06-04 10:58:00+00,D4,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192042739,2019-06-06 17:55:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192043502,2019-06-09 03:18:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I192043502,2019-06-09 03:18:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I192044195,2019-06-11 10:45:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+I192044239,2019-06-11 13:00:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192045000,2019-06-14 03:00:00+00,B2,Fatal,Male,Black or African American,Hispanic or Latinx,f
+I192045558,2019-06-16 01:18:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192045572,2019-06-16 02:14:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192046078,2019-06-17 21:52:00+00,E13,Fatal,Male,White,Hispanic or Latinx,t
+I192046078,2019-06-17 21:52:00+00,E13,Fatal,Male,White,Hispanic or Latinx,t
+I192046699,2019-06-19 19:44:00+00,C6,Non-Fatal,Male,White,Hispanic or Latinx,f
+I192047772,2019-06-23 21:27:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I192047536,2019-06-22 22:56:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192047777,2019-06-23 21:51:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192047777,2019-06-23 21:51:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192047800,2019-06-23 22:42:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192047704,2019-06-23 15:02:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192047704,2019-06-23 15:02:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192048395,2019-06-25 20:33:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192049454,2019-06-29 01:51:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192049465,2019-06-29 02:34:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192049778,2019-06-30 00:29:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I192051009,2019-07-03 23:45:00+00,E5,Non-Fatal,Male,White,Hispanic or Latinx,f
+I192051306,2019-07-05 03:17:00+00,C11,Non-Fatal,Female,White,Hispanic or Latinx,f
+I192051307,2019-07-05 03:10:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I192051282,2019-07-05 02:06:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I192051271,2019-07-04 23:35:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192051248,2019-07-04 23:08:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192051252,2019-07-04 22:58:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I192051252,2019-07-04 22:58:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I192052001,2019-07-07 16:36:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I192051849,2019-07-07 02:31:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192051843,2019-07-07 01:56:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192051573,2019-07-05 23:14:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192051573,2019-07-05 23:14:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192051573,2019-07-05 23:14:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I192051573,2019-07-05 23:14:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192051573,2019-07-05 23:14:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+I192051573,2019-07-05 23:14:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I192052452,2019-07-09 00:59:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192054188,2019-07-14 17:09:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192054188,2019-07-14 17:09:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+I192054283,2019-07-14 23:37:00+00,B2,Fatal,Male,White,Hispanic or Latinx,f
+I192054903,2019-07-17 00:03:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192055085,2019-07-17 15:12:00+00,E5,Fatal,Male,Asian,Not Hispanic or Latinx,f
+I192055856,2019-07-19 23:53:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192056108,2019-07-20 21:52:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192055856,2019-07-19 23:53:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192056543,2019-07-22 14:22:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192057687,2019-07-26 02:59:00+00,E13,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I192058537,2019-07-28 23:10:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192058537,2019-07-28 23:10:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I192059447,2019-07-31 20:33:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192059447,2019-07-31 20:33:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192059525,2019-08-01 00:46:00+00,C11,Fatal,Male,White,Hispanic or Latinx,t
+I192059525,2019-08-01 00:46:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192060619,2019-08-04 13:59:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I192060554,2019-08-04 09:30:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192060494,2019-08-04 00:47:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192061042,2019-08-05 20:04:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192061126,2019-08-06 04:25:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192061126,2019-08-06 04:25:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192061730,2019-08-07 21:50:00+00,B3,Non-Fatal,Female,Black or African American,Hispanic or Latinx,t
+I192061730,2019-08-07 21:50:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,t
+I192061117,2019-08-06 01:28:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192062713,2019-08-11 00:25:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I192062463,2019-08-10 03:00:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192062414,2019-08-10 00:39:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+I192063261,2019-08-12 23:52:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192064412,2019-08-16 16:00:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192064585,2019-08-17 06:10:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I192064818,2019-08-17 22:00:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I192066863,2019-08-23 23:10:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192066923,2019-08-24 04:07:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192066945,2019-08-24 08:32:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192067328,2019-08-25 14:18:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I192067181,2019-08-25 01:49:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192067181,2019-08-25 22:25:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192068166,2019-08-28 00:01:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192068834,2019-08-30 01:11:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192068826,2019-08-29 23:54:00+00,E13,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+I192068826,2019-08-29 23:54:00+00,E13,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I192068724,2019-08-29 18:09:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192071813,2019-09-08 02:02:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192071513,2019-09-07 04:32:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+I192071813,2019-09-08 02:02:00+00,D4,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+I192072998,2019-09-11 20:33:00+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192074077,2019-09-15 02:20:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192074613,2019-09-16 23:42:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202083761,2020-11-12 19:04:00+00,E18,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+I192074923,2019-09-17 22:44:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192075578,2019-09-19 17:16:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192075921,2019-09-20 21:40:00+00,C6,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+I192077645,2019-09-26 02:39:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+I192077627,2019-09-25 23:45:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192080960,2019-10-06 21:14:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192083280,2019-10-14 21:39:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192083063,2019-10-14 03:29:00+00,B2,Non-Fatal,Male,Unknown,Unknown,f
+192082827,2019-10-13 02:42:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192084830,2019-10-19 22:14:00+00,C6,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+192085079,2019-10-20 22:27:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192086068,2019-10-23 23:45:00+00,B3,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+192086707,2019-10-26 03:48:00+00,E13,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+192086707,2019-10-26 03:48:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+192086707,2019-10-26 03:48:00+00,E13,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+192088353,2019-10-31 22:21:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192088399,2019-11-01 00:05:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192088243,2019-10-31 14:05:00+00,E18,Fatal,Male,White,Hispanic or Latinx,t
+192088243,2019-10-31 14:05:00+00,E18,Non-Fatal,Male,White,Hispanic or Latinx,t
+192088750,2019-11-01 22:37:00+00,E18,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192088528,2019-11-01 11:30:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192089556,2019-11-04 23:28:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192090990,2019-11-09 20:35:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192093780,2019-11-19 18:25:00+00,C6,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+192094131,2019-11-20 21:21:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+192094784,2019-11-23 02:04:00+00,A1,Fatal,Male,Unknown,Unknown,f
+192095802,2019-11-26 17:30:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+192096091,2019-11-27 16:15:30+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192096860,2019-11-30 23:53:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192098019,2019-12-05 15:50:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192101494,2019-12-17 15:16:00+00,B3,Non-Fatal,Male,Unknown,Unknown,t
+192101494,2019-12-17 15:16:00+00,B3,Non-Fatal,Male,Unknown,Unknown,t
+192102486,2019-12-20 22:53:00+00,D14,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192102925,2019-12-22 18:41:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+192102925,2019-12-22 18:41:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+I192103915,2019-12-26 21:56:13+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+202002920,2020-01-11 20:26:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202002920,2020-01-11 20:26:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202002686,2020-01-11 23:17:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+192088072,2019-10-30 23:27:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202003937,2020-01-15 13:58:00+00,E5,Non-Fatal,Male,White,Hispanic or Latinx,f
+202005082,2020-01-19 18:43:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+202005879,2020-01-22 19:15:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202006837,2020-01-26 07:24:00+00,B3,Non-Fatal,Male,Unknown,Unknown,f
+202008158,2020-01-30 17:50:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202008158,2020-01-30 17:50:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202009569,2020-02-04 19:03:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202009888,2020-02-05 18:28:00+00,B2,Fatal,Male,Black or African American,Hispanic or Latinx,f
+202010471,2020-02-07 18:30:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202010820,2020-02-09 03:38:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+202012769,2020-02-16 21:38:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202012532,2020-02-15 02:15:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202014058,2020-02-20 23:13:00+00,B3,Fatal,Male,White,Hispanic or Latinx,f
+202014280,2020-02-21 19:21:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202015077,2020-02-24 19:35:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202015140,2020-02-25 02:10:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202015695,2020-02-26 21:23:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202016857,2020-03-01 23:39:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202017401,2020-03-03 21:13:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202018542,2020-03-07 17:27:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202019731,2020-03-12 02:00:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+202021807,2020-03-20 19:37:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202021872,2020-03-21 02:36:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202022237,2020-03-22 18:07:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202022697,2020-03-24 17:33:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202022971,2020-03-25 19:24:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202023501,2020-03-28 14:01:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202024454,2020-04-01 22:51:00+00,E13,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+202024634,2020-04-02 17:12:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+202025593,2020-04-07 16:23:00+00,A1,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202026656,2020-04-12 19:17:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202026656,2020-04-12 19:17:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202026320,2020-04-10 22:34:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202027076,2020-04-14 20:18:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202027248,2020-04-15 15:37:00+00,C11,Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+202027311,2020-04-15 20:10:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202028084,2020-04-19 21:28:00+00,B2,Non-Fatal,Male,Unknown,Unknown,t
+202028084,2020-04-19 21:28:00+00,B2,Non-Fatal,Male,Unknown,Unknown,t
+202027859,2020-04-18 17:18:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+202027887,2020-04-18 19:37:00+00,E13,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202027597,2020-04-17 10:57:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202028772,2020-04-23 02:50:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202028729,2020-04-22 20:22:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202028825,2020-04-23 13:11:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202029156,2020-04-24 23:04:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202029717,2020-04-27 21:17:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202030388,2020-04-30 17:49:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202031103,2020-05-03 22:38:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202031103,2020-05-03 22:38:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202031103,2020-05-03 22:38:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202031077,2020-05-03 20:50:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202031011,2020-05-03 15:45:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202030889,2020-05-03 00:00:00+00,C11,Non-Fatal,Male,Unknown,Unknown,f
+202030776,2020-05-02 12:35:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202033320,2020-05-13 22:59:00+00,C6,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202033591,2020-05-15 03:30:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202034010,2020-05-16 19:54:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202034336,2020-05-18 12:03:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202035190,2020-05-21 21:59:00+00,E13,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202035190,2020-05-21 21:59:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202035912,2020-05-24 21:51:46+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202035919,2020-05-24 21:52:37+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202035521,2020-05-23 01:59:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202036660,2020-05-27 23:55:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202036660,2020-05-27 23:55:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,t
+202036660,2020-05-27 23:55:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202036660,2020-05-27 23:55:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+202036660,2020-05-27 23:55:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+202036664,2020-05-28 00:35:00+00,C6,Non-Fatal,Male,White,Hispanic or Latinx,f
+202037769,2020-05-31 21:10:00+00,D4,Non-Fatal,Male,Unknown,Unknown,f
+202037278,2020-05-30 02:09:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+202038121,2020-06-01 21:08:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202038028,2020-06-01 15:28:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202038422,2020-06-02 21:05:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202038427,2020-06-02 21:30:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202038748,2020-06-04 02:29:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202038748,2020-06-04 02:29:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202038707,2020-06-03 22:11:00+00,B3,Non-Fatal,Female,Unknown,Unknown,f
+202039519,2020-06-06 23:31:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202039300,2020-06-05 23:16:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202039300,2020-06-05 23:16:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202039300,2020-06-05 23:16:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202039289,2020-06-05 22:30:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+202039907,2020-06-08 15:40:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202040314,2020-06-09 23:59:00+00,D4,Non-Fatal,Male,Unknown,Unknown,f
+202040541,2020-06-10 22:03:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+202040541,2020-06-10 22:03:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+202041368,2020-06-13 15:58:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202041454,2020-06-13 22:33:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202041438,2020-06-13 21:59:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202041325,2020-06-13 13:54:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202041211,2020-06-13 01:54:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202041944,2020-06-15 22:02:00+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202042670,2020-06-18 15:17:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+202042673,2020-06-18 15:07:00+00,D4,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+202043039,2020-06-19 22:39:00+00,A7,Non-Fatal,Male,Unknown,Unknown,f
+202043886,2020-06-23 02:33:00+00,A7,Non-Fatal,Male,White,Hispanic or Latinx,f
+202043876,2020-06-23 01:51:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202044494,2020-06-24 22:53:00+00,A7,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+202044494,2020-06-24 10:53:00+00,A7,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+202045473,2020-06-28 16:09:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202044982,2020-06-26 17:45:00+00,E18,Non-Fatal,Male,Unknown,Unknown,f
+202045752,2020-06-29 18:35:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202045639,2020-06-29 12:09:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202046020,2020-06-30 19:30:00+00,B2,Fatal,Male,Black or African American,Hispanic or Latinx,t
+202046020,2020-06-30 19:30:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202046020,2020-06-30 19:30:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+202046079,2020-07-01 00:23:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202046053,2020-06-30 21:32:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202046372,2020-07-01 22:16:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202046395,2020-07-02 00:19:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202046393,2020-07-02 00:05:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202046657,2020-07-02 22:01:00+00,B2,Fatal,Male,White,Hispanic or Latinx,t
+202046657,2020-07-02 22:01:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+202046657,2020-07-02 22:01:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202047204,2020-07-05 03:10:00+00,C11,Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+202046620,2020-07-02 20:14:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202046959,2020-07-04 00:17:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202047186,2020-07-05 00:17:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202047188,2020-07-05 01:28:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202047194,2020-07-05 02:09:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202046946,2020-07-03 23:03:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202047141,2020-07-04 21:28:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202047141,2020-07-04 21:28:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+202048558,2020-07-10 00:07:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202048558,2020-07-10 11:58:06+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202048537,2020-07-09 21:09:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202048537,2020-07-09 21:09:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+202048544,2020-07-09 21:31:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+202048412,2020-07-09 13:06:00+00,C6,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202049124,2020-07-12 01:58:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202049078,2020-07-12 00:49:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202049318,2020-07-13 04:44:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+202049270,2020-07-12 22:04:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202049500,2020-07-13 18:11:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202049803,2020-07-14 21:14:00+00,B2,Fatal,Male,White,Not Hispanic or Latinx,f
+202051124,2020-07-19 23:18:00+00,B2,Non-Fatal,Male,Unknown,Unknown,f
+202051043,2020-07-19 16:42:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202051043,2020-07-19 16:42:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202050678,2020-07-18 02:10:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202050662,2020-07-17 23:46:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202051404,2020-07-21 01:25:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202051655,2020-07-21 20:52:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+202051902,2020-07-22 17:55:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202051902,2020-07-22 17:55:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+202052824,2020-07-26 02:41:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202052824,2020-07-26 02:41:00+00,E13,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+202052816,2020-07-26 02:08:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202052804,2020-07-26 01:58:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202052556,2020-07-25 00:15:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202053270,2020-07-27 20:06:00+00,B3,Non-Fatal,Female,Black or African American,Hispanic or Latinx,f
+202053871,2020-07-29 23:10:35+00,C11,Fatal,Male,White,Hispanic or Latinx,f
+202053863,2020-07-29 22:04:41+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+202053909,2020-07-30 02:48:42+00,E13,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202053920,2020-07-30 03:29:06+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+202054954,2020-08-02 21:12:08+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202054637,2020-08-01 17:56:04+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202054726,2020-08-02 01:10:25+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202054381,2020-07-31 19:40:14+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202055359,2020-08-04 12:04:42+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202055998,2020-08-06 21:12:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202056828,2020-08-09 02:01:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202056825,2020-08-09 01:24:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202056804,2020-08-08 23:05:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202056804,2020-08-08 23:05:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202057391,2020-08-11 02:33:00+00,C6,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202057180,2020-08-10 13:20:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202058784,2020-08-16 00:47:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202058734,2020-08-15 20:55:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202058495,2020-08-14 22:06:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202060224,2020-08-21 00:04:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202060497,2020-08-21 11:40:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202060815,2020-08-23 02:10:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202061279,2020-08-24 20:02:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202061776,2020-08-26 16:21:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202061868,2020-08-26 22:43:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202062150,2020-08-27 23:30:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202062720,2020-08-30 02:40:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202062950,2020-08-30 22:42:00+00,A7,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202062983,2020-08-31 00:42:00+00,E18,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+202062983,2020-08-31 00:42:00+00,E18,Non-Fatal,Male,White,Hispanic or Latinx,t
+202062978,2020-08-31 00:27:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202064687,2020-09-05 17:29:39+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202064507,2020-09-04 23:13:29+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202064647,2020-09-05 14:20:37+00,E18,Non-Fatal,Male,White,Hispanic or Latinx,f
+202064756,2020-09-05 20:56:43+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202064764,2020-09-05 22:21:58+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202064760,2020-09-05 22:29:48+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202064786,2020-09-06 00:01:49+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202064795,2020-09-06 01:56:51+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202064913,2020-09-06 15:43:41+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202065181,2020-09-07 16:13:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202065268,2020-09-07 23:03:18+00,C6,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202065280,2020-09-08 00:30:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202068185,2020-09-17 19:28:00+00,A15,Fatal,Male,Unknown,Unknown,t
+202068185,2020-09-17 19:28:00+00,A15,Fatal,Male,Black or African American,Hispanic or Latinx,t
+202069241,2020-09-21 20:08:00+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202068459,2020-09-18 19:45:00+00,D4,Fatal,Male,Black or African American,Hispanic or Latinx,t
+202068459,2020-09-18 19:45:00+00,D4,Non-Fatal,Male,White,Hispanic or Latinx,t
+202068459,2020-09-18 19:45:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202068361,2020-09-18 14:15:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202068706,2020-09-18 19:24:00+00,D14,Non-Fatal,Male,Unknown,Unknown,f
+202068747,2020-09-19 21:50:00+00,D4,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+202069497,2020-09-22 20:08:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202069804,2020-09-23 22:16:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202070078,2020-09-24 22:03:30+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202070114,2020-09-25 01:15:00+00,C6,Non-Fatal,Male,White,Hispanic or Latinx,f
+202070693,2020-09-27 01:17:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202070405,2020-09-26 01:15:00+00,B3,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+202071598,2020-09-29 23:00:00+00,E5,Non-Fatal,Male,White,Hispanic or Latinx,f
+202071462,2020-09-29 14:50:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202072972,2020-10-04 20:23:00+00,E5,Non-Fatal,Male,Unknown,Unknown,f
+202072660,2020-10-01 02:00:00+00,C11,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+202072285,2020-10-02 12:33:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+202074518,2020-10-10 23:43:59+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202075514,2020-10-13 21:25:41+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202075740,2020-10-14 17:24:36+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202076328,2020-10-16 15:29:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+202077480,2020-10-20 20:09:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202077762,2020-10-21 18:45:00+00,E13,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202078143,2020-10-22 22:52:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202078143,2020-10-22 22:52:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202078143,2020-10-22 22:52:00+00,B2,Non-Fatal,Female,Black or African American,Hispanic or Latinx,t
+202078143,2020-10-22 22:52:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202078749,2020-10-25 00:09:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202078757,2020-10-25 01:29:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202078214,2020-10-23 10:23:00+00,B2,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+202079474,2020-10-27 14:46:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202079594,2020-10-27 21:33:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202080693,2020-11-01 02:29:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202079520,2020-10-27 15:54:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202081438,2020-11-04 03:20:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202081374,2020-11-03 19:30:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202081301,2020-11-03 14:46:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+P200559783,2020-11-05 23:22:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+202082464,2020-11-08 00:38:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,t
+202082464,2020-11-08 00:38:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+202082464,2020-11-08 00:38:00+00,B3,Non-Fatal,Male,Unknown,Unknown,t
+202082172,2020-11-06 23:00:00+00,E13,Fatal,Male,White,Hispanic or Latinx,t
+202082172,2020-11-06 23:00:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,t
+202082172,2020-11-06 23:00:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,t
+202082690,2020-11-09 00:32:00+00,D14,Non-Fatal,Male,Unknown,Unknown,t
+202082690,2020-11-09 00:32:00+00,D14,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202082690,2020-11-09 00:32:00+00,D14,Non-Fatal,Male,White,Not Hispanic or Latinx,t
+202082657,2020-11-08 21:42:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202082657,2020-11-08 21:42:00+00,B3,Non-Fatal,Male,Unknown,Unknown,t
+202082187,2020-11-07 00:37:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202082190,2020-11-07 00:57:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202082631,2020-11-08 19:30:00+00,B2,Non-Fatal,Female,Black or African American,Hispanic or Latinx,f
+202084481,2020-11-15 22:04:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202084756,2020-11-16 22:12:00+00,E18,Fatal,Male,White,Hispanic or Latinx,f
+202086319,2020-11-22 20:15:00+00,E13,Non-Fatal,Female,Unknown,Unknown,f
+202086079,2020-11-21 17:52:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+202087123,2020-11-25 23:10:16+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202087271,2020-11-26 23:30:07+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202088035,2020-11-30 13:30:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202088466,2020-12-01 20:30:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202089065,2020-12-04 02:16:00+00,C11,Non-Fatal,Male,Unknown,Unknown,f
+202089501,2020-12-05 19:46:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+202089435,2020-12-05 14:40:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202089242,2020-12-04 17:14:00+00,A7,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+202090270,2020-12-09 03:04:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202090503,2020-12-09 23:39:00+00,E18,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+202090764,2020-12-10 22:21:12+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202090771,2020-12-11 00:43:08+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202091439,2020-12-13 19:30:06+00,E18,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202092123,2020-12-16 16:33:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+202093583,2020-12-22 18:38:00+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202093583,2020-12-22 18:38:00+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+202094487,2020-12-27 01:48:19+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+212000179,2021-01-01 17:37:00+00,B2,Non-Fatal,Female,Black or African American,Hispanic or Latinx,f
+212000130,2021-01-01 12:47:00+00,E18,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+212000047,2021-01-01 04:42:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212001090,2021-01-06 12:26:00+00,B3,Fatal,Male,Black or African American,Hispanic or Latinx,f
+212003106,2021-01-14 21:13:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+212003327,2021-01-15 18:47:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212003704,2021-01-17 18:15:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212004677,2021-01-22 12:30:00+00,C11,Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+212007684,2021-02-04 22:03:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212008158,2021-02-06 22:48:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212009008,2021-02-10 20:48:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212009034,2021-02-11 00:15:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212009692,2021-02-13 19:30:00+00,E13,Non-Fatal,Male,Unknown,Unknown,f
+212011290,2021-02-21 02:40:00+00,E18,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+212011355,2021-02-21 14:06:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+212012349,2021-02-25 18:22:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212014051,2021-03-04 21:29:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212014694,2021-03-07 20:42:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212014948,2021-03-08 21:02:00+00,C6,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+212015585,2021-03-11 14:52:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212017427,2021-03-19 00:07:00+00,B2,Non-Fatal,Male,Unknown,Unknown,f
+212017827,2021-03-20 16:25:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212017718,2021-03-20 03:21:00+00,A15,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212018335,2021-03-22 17:08:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212019752,2021-03-28 04:32:00+00,C6,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+212019379,2021-03-25 17:33:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+212020442,2021-03-31 01:24:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212020253,2021-03-30 12:18:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212020978,2021-04-01 00:00:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212021216,2021-04-03 01:22:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212023091,2021-04-10 17:56:00+00,C11,Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+212022933,2021-04-09 21:59:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212022933,2021-04-09 21:59:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+212023645,2021-04-12 20:22:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212023896,2021-04-13 19:04:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212024157,2021-04-14 18:34:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212024344,2021-04-15 13:50:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+212024632,2021-04-16 19:06:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212025292,2021-04-19 18:49:00+00,E18,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+212025339,2021-04-19 21:11:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212025545,2021-04-20 18:39:00+00,C6,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+212026089,2021-04-23 00:23:00+00,C11,Non-Fatal,Male,Unknown,Unknown,f
+212026804,2021-04-25 21:59:00+00,C11,Non-Fatal,Male,Unknown,Unknown,f
+212026582,2021-04-25 00:16:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212026582,2021-04-25 00:16:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212026560,2021-04-24 21:42:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212026594,2021-04-25 01:06:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212027556,2021-04-28 18:44:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+212028492,2021-05-02 19:22:00+00,B3,Non-Fatal,Female,Unknown,Hispanic or Latinx,f
+212029313,2021-05-06 01:00:00+00,B2,Non-Fatal,Female,White,Hispanic or Latinx,f
+212031599,2021-05-14 21:18:32+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212031605,2021-05-14 21:16:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212031608,2021-05-14 22:09:14+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212031495,2021-05-14 13:11:36+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212032369,2021-05-17 19:20:30+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212032657,2021-05-18 20:38:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+212033817,2021-05-22 22:00:51+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212033989,2021-05-23 16:25:24+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212033400,2021-05-21 13:45:32+00,A1,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212034069,2021-05-23 22:48:58+00,B2,Fatal,Male,Unknown,Unknown,t
+212034069,2021-05-23 22:48:08+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+212034069,2021-05-23 22:48:41+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212034323,2021-05-24 22:04:44+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212034237,2021-05-24 16:20:20+00,C11,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+212035261,2021-05-28 02:56:00+00,B3,Non-Fatal,Male,,,f
+212035337,2021-05-28 23:52:17+00,B3,Fatal,Male,,Hispanic or Latinx,f
+212036459,2021-06-02 02:58:37+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212036612,2021-06-02 16:22:47+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212037273,2021-06-04 23:16:19+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212037834,2021-06-06 23:11:17+00,D4,Non-Fatal,Male,White,Hispanic or Latinx,f
+212038114,2021-06-07 20:46:59+00,B2,Fatal,Male,Black or African American,Unknown,f
+212038321,2021-06-08 15:53:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212038333,2021-06-08 16:20:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212038390,2021-06-08 20:00:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212038390,2021-06-08 20:00:00+00,C6,Non-Fatal,Male,White,Unknown,t
+212038681,2021-06-10 01:08:18+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212039196,2021-06-11 20:41:08+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212039858,2021-06-14 13:52:45+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212040044,2021-06-15 01:13:36+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212040965,2021-06-18 00:46:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212041475,2021-06-19 20:54:27+00,D14,Non-Fatal,Male,White,Hispanic or Latinx,f
+212041733,2021-06-20 20:36:59+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212041733,2021-06-20 20:36:51+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212043018,2021-06-25 01:28:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212043505,2021-06-26 20:08:12+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212043607,2021-06-27 05:06:22+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212043285,2021-06-26 01:13:32+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212043809,2021-06-28 01:20:07+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+212044094,2021-06-28 23:18:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+212044118,2021-06-29 03:47:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+212045685,2021-07-05 01:55:00+00,B2,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+212045678,2021-07-05 01:49:00+00,B2,Non-Fatal,Male,,,f
+212045661,2021-07-05 00:58:00+00,B3,Non-Fatal,Male,,,f
+212045549,2021-07-04 13:57:00+00,B2,Non-Fatal,Female,Black or African American,Hispanic or Latinx,f
+ 212045699,2021-07-05 03:07:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212046745,2021-07-09 01:53:00+00,C6,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+212046950,2021-07-09 21:25:18+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212046950,2021-07-09 21:21:31+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+212046950,2021-07-09 21:27:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+212047472,2021-07-11 20:21:00+00,B2,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+212047031,2021-07-10 04:34:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212047193,2021-07-10 18:11:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+212047193,2021-07-10 18:11:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212047090,2021-07-10 11:31:28+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212047193,2021-07-10 18:11:00+00,C11,Non-Fatal,Unknown,Black or African American,Not Hispanic or Latinx,t
+212047193,2021-07-10 18:11:00+00,C11,Non-Fatal,Unknown,Black or African American,Not Hispanic or Latinx,t
+212048551,2021-07-15 21:15:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212048551,2021-07-15 21:15:00+00,E13,Non-Fatal,,White,Not Hispanic or Latinx,t
+212048551,2021-07-15 21:15:00+00,E13,Non-Fatal,Male,Black or African American,Unknown,t
+212048551,2021-07-15 21:15:00+00,E13,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+212049099,2021-07-18 02:38:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+212049012,2021-07-17 18:59:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212049012,2021-07-17 18:59:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212049526,2021-07-19 17:26:00+00,B3,Non-Fatal,Male,Black or African American,Unknown,f
+212049900,2021-07-20 23:30:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+212051093,2021-07-24 22:24:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212052004,2021-07-27 23:00:00+00,C6,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+212052395,2021-07-29 13:17:00+00,E5,Fatal,Female,Black or African American,Unknown,f
+212052526,2021-07-29 20:06:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212052857,2021-07-31 23:21:00+00,C6,Non-Fatal,Male,White,,f
+212053150,2021-08-01 02:32:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212052662,2021-07-30 11:31:36+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+212054186,2021-08-04 18:09:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212055384,2021-08-09 00:29:00+00,B3,Fatal,Female,Black or African American,Unknown,t
+212055384,2021-08-09 00:29:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212055384,2021-08-09 00:29:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212055384,2021-08-09 00:29:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+212055384,2021-08-09 00:29:00+00,B3,Non-Fatal,Male,Black or African American,Unknown,t
+212055384,2021-08-09 00:29:00+00,B3,Non-Fatal,Male,Black or African American,Unknown,t
+212056815,2021-08-13 22:15:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212056861,2021-08-14 03:18:00+00,B3,Fatal,Male,White,Not Hispanic or Latinx,t
+212056861,2021-08-14 03:18:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212056986,2021-08-14 15:22:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212059080,2021-08-22 00:34:00+00,B3,Fatal,Male,Black or African American,Hispanic or Latinx,f
+212059215,2021-08-22 15:38:00+00,C11,Non-Fatal,Male,Black or African American,,f
+212059810,2021-08-24 18:13:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+212060448,2021-08-26 20:10:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212060812,2021-08-28 00:58:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212060825,2021-08-28 02:59:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212061019,2021-08-28 18:30:00+00,B3,Fatal,Male,Black or African American,Unknown,f
+212061712,2021-08-31 07:59:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212062988,2021-09-04 17:17:00+00,B3,Non-Fatal,Male,Black or African American,,f
+212063320,2021-09-05 23:50:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212063320,2021-09-05 23:49:00+00,B2,Non-Fatal,Male,Black or African American,Unknown,t
+212063894,2021-09-08 02:37:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212064071,2021-09-08 14:22:00+00,E13,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212064162,2021-09-08 22:26:00+00,B3,Non-Fatal,Male,Black or African American,,f
+212064693,2021-09-10 19:26:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212007688,2021-02-04 23:26:00+00,A1,Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+212066431,2021-09-16 16:18:00+00,B3,Non-Fatal,Female,Black or African American,Unknown,f
+212066571,2021-09-17 03:10:12+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212067131,2021-09-18 21:56:00+00,E13,Non-Fatal,Male,Unknown,Hispanic or Latinx,f
+212066760 ,2021-09-17 16:43:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212067845,2021-09-21 14:47:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+212069153,2021-09-25 20:59:00+00,B3,Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+212069153,2021-09-25 20:59:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+212069765,2021-09-27 21:00:00+00,E13,Non-Fatal,Male,,,t
+212069765,2021-09-27 21:00:00+00,E13,Non-Fatal,Male,,,t
+212071219,2021-10-02 20:20:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212071815,2021-10-05 00:05:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212072011,2021-10-05 17:10:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212072410,2021-10-06 22:55:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212072721,2021-10-08 01:38:00+00,A1,Non-Fatal,Male,,,f
+212073444,2021-10-10 14:59:00+00,E18,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212073816,2021-10-11 21:49:00+00,E18,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+212074135,2021-10-12 21:31:00+00,B2,Non-Fatal,Male,Unknown,Hispanic or Latinx,f
+212075522,2021-10-17 18:15:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+212075898,2021-10-18 23:06:50+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212077335,2021-10-23 15:38:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212078013,2021-10-26 00:35:00+00,E5,Non-Fatal,Male,,,f
+212078823,2021-10-29 02:00:57+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212078823,2021-10-29 02:00:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212080667,2021-11-04 00:13:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212081709,2021-11-07 19:58:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212081137,2021-11-05 17:30:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212080778,2021-11-04 13:31:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212082116,2021-11-09 09:33:00+00,B3,Non-Fatal,,,,t
+212082116,2021-11-09 09:33:00+00,B3,Non-Fatal,,,,t
+212082116,2021-11-09 09:33:00+00,B3,Non-Fatal,,,,t
+212082297,2021-11-09 23:00:00+00,B3,Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+212082297,2021-11-09 23:00:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212082557,2021-11-10 22:52:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212082552,2021-11-10 22:25:00+00,E18,Non-Fatal,Male,,,f
+212083607,2021-11-15 00:30:30+00,D14,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212083607,2021-11-15 00:30:43+00,D14,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+212083356,2021-11-13 22:36:30+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+212084130,2021-11-16 19:56:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212085481,2021-11-21 22:25:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212087290,2021-11-29 18:18:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+212087456,2021-11-30 13:21:00+00,B2,Non-Fatal,Male,Unknown,Hispanic or Latinx,f
+212085753,2021-11-22 21:55:00+00,E18,Fatal,Male,White,Hispanic or Latinx,f
+212088535,2021-12-03 23:49:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212092374,2021-12-17 18:28:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212091961,2021-12-16 12:24:00+00,A7,Fatal,Male,Black or African American,Unknown,f
+212092715,2021-12-19 01:54:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+212094543,2021-12-27 14:27:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+212094543,2021-12-27 14:27:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+222000057,2022-01-01 04:20:16+00,B2,Non-Fatal,Male,Unknown,Hispanic or Latinx,f
+222000343,2022-01-02 18:12:19+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222000342,2022-01-02 18:25:12+00,C11,Fatal,Female,Black or African American,,t
+222000342,2022-01-02 18:25:08+00,C11,Non-Fatal,Male,Black or African American,,t
+222000342,2022-01-02 18:25:32+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222002059,2022-01-10 20:57:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+222002059,2022-01-10 20:57:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222002059,2022-01-10 20:57:00+00,B2,Non-Fatal,Male,Unknown,Unknown,t
+222002279,2022-01-11 22:26:00+00,B2,Non-Fatal,Male,Black or African American,Unknown,f
+222003887,2022-01-18 18:51:10+00,C6,Non-Fatal,Male,White,,f
+222005232,2022-01-24 20:18:00+00,A7,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222010971,2022-02-15 01:56:00+00,C6,Non-Fatal,Male,White,Hispanic or Latinx,f
+222012303,2022-02-19 23:12:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+222012303,2022-02-19 23:12:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222013916,2022-02-26 22:43:00+00,C11,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+222015951,2022-03-07 00:54:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222016123,2022-03-07 16:33:00+00,D14,Non-Fatal,Male,Black or African American,Unknown,f
+222016376,2022-03-08 16:24:00+00,A7,Non-Fatal,Male,Unknown,Hispanic or Latinx,f
+222016718,2022-03-09 22:57:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+222018193,2022-03-15 17:42:00+00,B3,Non-Fatal,Male,Black or African American,Unknown,t
+222018193,2022-03-15 17:42:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222019112,2022-03-19 00:03:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+222019622,2022-03-21 02:18:00+00,B3,Non-Fatal,Female,White,Hispanic or Latinx,f
+222020180,2022-03-23 02:28:00+00,A7,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222020180,2022-03-23 02:28:00+00,A7,Non-Fatal,Male,White,Not Hispanic or Latinx,t
+222020987,2022-03-26 00:05:00+00,A15,Non-Fatal,Male,White,Hispanic or Latinx,f
+222021013,2022-03-28 02:26:43+00,E18,Non-Fatal,Female,White,Hispanic or Latinx,f
+222022343,2022-03-30 23:42:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222022630,2022-03-31 22:39:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222023095,2022-03-31 22:58:00+00,B2,Non-Fatal,Female,Black or African American,Unknown,f
+222025135,2022-04-10 12:24:00+00,A15,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+222024830,2022-04-09 03:38:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+222024777,2022-04-08 21:47:00+00,E5,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222024777,2022-04-08 21:47:00+00,E5,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+222025588,2022-04-12 00:21:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222025588,2022-04-12 00:21:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222025490 ,2022-04-11 17:46:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222025866,2022-04-12 22:58:30+00,E13,Fatal,Male,White,Hispanic or Latinx,t
+222025866,2022-04-12 22:58:45+00,E13,Non-Fatal,Male,Unknown,Unknown,t
+222026988,2022-04-17 02:35:00+00,A1,Non-Fatal,Male,White,Not Hispanic or Latinx,t
+222026988,2022-04-17 02:35:00+00,A1,Non-Fatal,Male,Asian,Not Hispanic or Latinx,t
+222026546,2022-04-15 12:15:00+00,E13,Non-Fatal,Male,Black or African American,Unknown,f
+222028181,2022-04-22 00:11:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+222028494,2022-04-23 05:52:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222029636,2022-04-27 11:41:00+00,B2,Fatal,Male,Black or African American,Unknown,f
+222030427,2022-04-29 23:15:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222032703,2022-05-08 15:18:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222033583,2022-05-11 18:51:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+222034488,2022-05-14 21:08:00+00,B2,Non-Fatal,Male,Unknown,Unknown,f
+222034439,2022-05-14 18:01:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222035664,2022-05-18 20:46:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,t
+222035664,2022-05-18 20:46:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222036408,2022-05-21 03:56:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,t
+222036408,2022-05-21 03:56:39+00,E13,Non-Fatal,Male,,,t
+222036546,2022-05-21 17:18:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+222037576,2022-05-24 23:43:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+222038052,2022-05-26 15:27:00+00,A1,Non-Fatal,,,,f
+222038996,2022-05-29 21:00:16+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222039044,2022-05-29 00:20:22+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222040203,2022-06-02 23:05:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222040222,2022-06-03 00:01:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+222040222,2022-06-03 00:01:00+00,B3,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+222043221,2022-06-12 21:27:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222042669,2022-06-10 22:46:00+00,C11,Non-Fatal,Male,Black or African American,Unknown,f
+222043262,2022-06-13 01:34:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+222045881,2022-06-21 18:34:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222046251,2022-06-22 22:45:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+222048951,2022-07-02 03:53:00+00,E18,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+222048733,2022-07-01 13:15:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222049428,2022-07-03 22:42:33+00,B3,Non-Fatal,Male,Unknown,Hispanic or Latinx,f
+222049436,2022-07-03 22:57:14+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222049436,2022-07-03 22:57:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222049446,2022-07-04 00:16:41+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222049446,2022-07-04 00:16:22+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222049446,2022-07-04 00:16:58+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222049443,2022-07-04 01:13:46+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222049468,2022-07-04 01:34:00+00,E18,Non-Fatal,Female,Black or African American,Hispanic or Latinx,f
+222049458,2022-07-04 02:19:58+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222049472,2022-07-04 02:24:39+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222049692,2022-07-05 00:45:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222050313,2022-07-06 22:07:00+00,C11,Non-Fatal,Male,Black or African American,Unknown,f
+222051795,2022-07-11 22:37:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222052134,2022-07-12 23:23:47+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222052134,2022-07-12 23:23:24+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222052134,2022-07-12 23:23:27+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222052134,2022-07-12 23:23:21+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222053517,2022-07-17 21:14:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222053065,2022-07-16 05:00:00+00,C6,Non-Fatal,Female,,,f
+222053550,2022-07-17 22:37:00+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+222053912,2022-07-19 00:59:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222054193,2022-07-19 23:20:00+00,B2,Non-Fatal,Female,Unknown,Hispanic or Latinx,f
+222054155,2022-07-19 20:27:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+222054787,2022-07-21 22:02:00+00,B3,Fatal,Male,Black or African American,Unknown,f
+222055619,2022-07-24 21:23:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+222055427,2022-07-24 01:54:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222055413,2022-07-24 00:37:00+00,C6,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+222055218,2022-07-23 11:11:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222056542,2022-07-27 19:24:00+00,B3,Fatal,Male,Black or African American,Unknown,f
+222057800,2022-07-31 22:31:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222057800,2022-07-31 22:31:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222057534 ,2022-07-30 23:49:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222057534 ,2022-07-30 23:49:00+00,C11,Non-Fatal,Male,Unknown,Unknown,t
+222057534,2022-07-30 23:49:00+00,C11,Non-Fatal,Female,Unknown,Unknown,t
+222057902,2022-08-01 12:06:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222059311,2022-08-06 02:04:00+00,A7,Non-Fatal,Male,Unknown,Hispanic or Latinx,f
+222060964,2022-08-11 20:36:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222061630,2022-08-13 22:00:00+00,D4,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222061665,2022-08-14 01:13:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222061649,2022-08-13 23:51:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+222061920,2022-08-15 00:46:00+00,B3,Non-Fatal,Female,White,Hispanic or Latinx,f
+222062857,2022-08-18 04:12:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222062857,2022-08-18 04:12:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222064023,2022-08-22 05:50:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222063940,2022-08-21 20:45:00+00,B3,Non-Fatal,Male,Black or African American,Unknown,f
+222063657,2022-08-20 19:55:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222063508,2022-08-20 03:57:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+222065496,2022-08-27 00:10:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222065538,2022-08-27 06:45:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222065670,2022-08-27 15:10:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+222065701,2022-08-28 17:41:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222065647,2022-08-27 13:52:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222067867,2022-09-04 02:59:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222067867,2022-09-04 02:59:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222067822,2022-09-04 01:31:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222065751,2022-08-27 08:15:00+00,B2,Non-Fatal,Male,Black or African American,,f
+222067132,2022-09-01 16:00:00+00,B2,Non-Fatal,Female,Black or African American,Unknown,f
+222066832,2022-08-31 17:06:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222066903,2022-08-31 20:21:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222066891,2022-08-31 19:58:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222067867,2022-09-04 14:59:00+00,C11,Non-Fatal,Male,Black or African American,,f
+222070795,2022-09-14 13:56:00+00,B3,Non-Fatal,Male,,,f
+222071566,2022-09-16 23:50:00+00,C11,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+222071566,2022-09-16 23:50:00+00,C11,Non-Fatal,Male,Black or African American,,t
+222073318,2022-09-22 23:59:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+222075243,2022-09-29 18:23:00+00,D4,Fatal,Male,Black or African American,Hispanic or Latinx,f
+222076138,2022-10-03 01:49:00+00,D4,Non-Fatal,Female,Black or African American,Unknown,f
+222076415,2022-10-04 00:40:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222076457,2022-10-04 09:35:00+00,B2,Non-Fatal,Male,Unknown,Unknown,f
+222076415,2022-10-04 00:40:00+00,C11,Non-Fatal,,,,t
+222077997,2022-10-09 23:03:27+00,E18,Non-Fatal,Male,Black or African American,,f
+222078041,2022-10-10 06:30:09+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222078096,2022-10-10 12:18:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222078096,2022-10-10 12:18:13+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+222079992,2022-10-17 00:23:00+00,E18,Non-Fatal,Male,White,Unknown,f
+222079944,2022-10-16 20:55:00+00,C11,Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+222079944,2022-10-16 20:55:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222079944,2022-10-16 20:55:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222080826,2022-10-19 19:08:00+00,B2,Non-Fatal,Male,Black or African American,Unknown,f
+222081761,2022-10-23 04:47:00+00,E18,Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+222081486,2022-10-22 01:03:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222081494,2022-10-22 03:49:00+00,E18,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+222081951,2022-10-23 22:29:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222082764,2022-10-26 19:18:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222083762,2022-10-30 05:50:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,t
+222083762,2022-10-30 05:50:00+00,C11,Non-Fatal,Male,White,,t
+222083762,2022-10-30 05:50:00+00,C11,Non-Fatal,Female,White,Hispanic or Latinx,t
+222083698,2022-10-29 22:28:00+00,B3,Non-Fatal,Male,,,f
+222086084,2022-11-06 21:46:00+00,E18,Non-Fatal,Male,Black or African American,Unknown,t
+222086084,2022-11-06 21:46:00+00,E18,Non-Fatal,Male,White,Hispanic or Latinx,t
+222086084,2022-11-06 21:46:00+00,E18,Non-Fatal,Male,Black or African American,Unknown,t
+222086068,2022-11-06 21:10:00+00,B3,Fatal,Male,White,Hispanic or Latinx,t
+222086068,2022-11-06 21:10:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222086087,2022-11-06 21:40:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222085581,2022-11-04 22:42:00+00,D4,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222086858,2022-11-09 13:13:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222089342,2022-11-17 20:14:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222089861,2022-11-19 18:46:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222090006,2022-11-20 11:45:00+00,A15,Non-Fatal,Male,White,Hispanic or Latinx,f
+222091500,2022-11-26 17:25:00+00,B3,Non-Fatal,Male,Black or African American,,f
+222091783,2022-11-27 22:25:50+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222093239,2022-12-02 20:21:00+00,E18,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222093950,2022-12-05 15:08:00+00,B3,Non-Fatal,Male,Black or African American,Unknown,t
+222093950,2022-12-05 15:08:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+222095762,2022-12-11 19:30:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222095607,2022-12-11 02:26:00+00,D14,Non-Fatal,Male,Black or African American,Unknown,f
+222095594,2022-12-11 02:04:00+00,E13,Non-Fatal,Female,Black or African American,Hispanic or Latinx,f
+222095490,2022-12-10 17:26:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+222096629,2022-12-14 23:20:00+00,B2,Fatal,Male,Black or African American,Hispanic or Latinx,f
+222096772,2022-12-15 13:26:00+00,E13,Non-Fatal,Female,,,f
+222099235,2022-12-23 23:01:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232000070,2023-01-01 05:55:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232000070,2023-01-01 05:55:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232001294,2023-01-05 18:45:00+00,E5,Non-Fatal,Male,White,Hispanic or Latinx,f
+232002635,2023-01-11 01:38:00+00,B2,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+232002635,2023-01-11 01:38:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+232003889,2023-01-15 17:13:00+00,C6,Non-Fatal,Female,Black or African American,Hispanic or Latinx,f
+232003698,2023-01-14 19:36:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+232005321,2023-01-20 21:19:00+00,C11,Non-Fatal,Male,Unknown,Unknown,f
+232005170,2023-01-20 12:22:00+00,E18,Non-Fatal,Male,White,Hispanic or Latinx,f
+232006821,2023-01-26 17:41:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232007964,2023-01-26 17:41:00+00,C11,Non-Fatal,Male,White,Unknown,f
+232007576,2023-01-29 11:32:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232007204,2023-01-28 02:06:00+00,C6,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+232007948,2023-01-30 17:00:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232009167,2023-02-03 23:54:00+00,A7,Non-Fatal,Male,White,Hispanic or Latinx,f
+232011907,2023-02-13 20:08:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232011907,2023-02-13 20:08:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232012721,2023-02-16 18:13:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+232013356,2023-02-18 21:43:00+00,B3,Fatal,Female,Black or African American,Unknown,f
+232013379,2023-02-19 23:34:00+00,D4,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232013379,2023-02-19 23:34:00+00,D4,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+232013202,2023-02-18 10:52:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232014078,2023-02-21 19:36:33+00,C11,Fatal,Male,Black or African American,Hispanic or Latinx,t
+232014078,2023-02-21 19:36:59+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+232017019,2023-03-04 15:31:00+00,B2,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232016844,2023-03-03 21:49:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232017322,2023-03-05 23:39:00+00,E13,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232017984,2023-03-08 10:38:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232021861,2023-03-21 08:42:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232022790,2023-03-24 21:31:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+232027459,2023-04-09 20:22:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+232027272,2023-04-08 22:18:00+00,E13,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232028773,2023-04-14 02:22:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232028773,2023-04-14 02:22:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232028565,2023-04-13 14:39:00+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232029322,2023-04-15 21:15:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232031186,2023-04-22 21:37:00+00,E18,Fatal,Male,Black or African American,Hispanic or Latinx,t
+232031186,2023-04-22 21:37:00+00,E18,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232032268,2023-04-26 22:04:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232033673,2023-05-01 20:17:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232032343,2023-04-27 09:16:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232034509,2023-05-04 16:05:56+00,C11,Non-Fatal,Male,Black or African American,Unknown,t
+232034509,2023-05-04 16:09:00+00,C11,Non-Fatal,Male,Black or African American,,t
+232035550,2023-05-07 21:39:00+00,A1,Non-Fatal,Male,Black or African American,Unknown,t
+232035541,2023-05-07 20:34:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232035541,2023-05-07 20:34:00+00,B3,Non-Fatal,Male,Black or African American,Unknown,t
+232035584,2023-05-07 20:19:00+00,C11,Fatal,Male,White,Hispanic or Latinx,f
+232036239,2023-05-10 00:18:00+00,B2,Non-Fatal,Male,Black or African American,Unknown,t
+232036239,2023-05-10 00:18:00+00,B2,Non-Fatal,Female,Black or African American,,t
+232035550,2023-05-07 21:39:23+00,A1,Non-Fatal,Female,Black or African American,,t
+232037206,2023-05-13 03:32:00+00,C6,Non-Fatal,Male,White,Hispanic or Latinx,f
+232037392,2023-05-13 21:35:00+00,C11,Non-Fatal,Male,White,Hispanic or Latinx,f
+232040051,2023-05-22 16:58:00+00,C11,Fatal,Male,Black or African American,Unknown,f
+232041706,2023-05-28 04:19:00+00,B2,Non-Fatal,Male,Black or African American,Unknown,f
+232045448,2023-06-09 21:18:00+00,B2,Non-Fatal,Male,White,Not Hispanic or Latinx,f
+232046538,2023-06-13 20:31:00+00,B3,Non-Fatal,Male,Black or African American,Unknown,f
+232046888,2023-06-14 22:40:00+00,C11,Non-Fatal,Male,Black or African American,Unknown,f
+232048084,2023-06-19 05:17:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+232047757,2023-06-17 19:04:00+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+232049493,2023-06-23 21:11:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232050633,2023-06-27 20:25:00+00,C11,Non-Fatal,Male,Asian,Unknown,f
+232051272,2023-06-29 20:58:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232051641,2023-07-01 00:12:00+00,B2,Fatal,Male,White,Hispanic or Latinx,t
+232051641,2023-07-01 12:12:42+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+232052648,2023-07-04 22:18:00+00,E18,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+232052748,2023-07-04 22:30:00+00,C11,Non-Fatal,Female,Unknown,Unknown,f
+232052689,2023-07-05 02:01:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232052689,2023-07-05 02:01:00+00,B3,Non-Fatal,Male,White,Unknown,t
+232052689,2023-07-05 02:01:00+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,t
+232052689,2023-07-05 02:01:00+00,B3,Non-Fatal,Female,White,Hispanic or Latinx,t
+232052689,2023-07-05 02:01:00+00,B3,Non-Fatal,Male,Unknown,Not Hispanic or Latinx,t
+232053295,2023-07-06 23:49:00+00,B2,Fatal,Male,Black or African American,Unknown,f
+232055224,2023-07-13 14:05:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232055363,2023-07-13 21:25:00+00,D4,Non-Fatal,Male,Black or African American,Unknown,f
+232056044,2023-07-16 05:41:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+232056565,2023-07-18 01:39:00+00,E13,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232057528,2023-07-20 22:25:00+00,C6,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+232057849,2023-07-21 23:07:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232058399,2023-07-23 22:12:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,t
+232058399,2023-07-23 22:12:00+00,B2,Non-Fatal,Male,Black or African American,Unknown,t
+232058700,2023-07-25 12:38:26+00,D4,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+232060395,2023-07-30 19:47:00+00,B2,Fatal,Male,Black or African American,Unknown,f
+232060443,2023-07-30 23:09:00+00,B2,Fatal,Male,White,Hispanic or Latinx,f
+232060444,2023-07-30 23:33:00+00,C11,Non-Fatal,Male,Unknown,Hispanic or Latinx,f
+232060759,2023-07-31 21:28:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232060759,2023-07-31 21:28:00+00,E13,Non-Fatal,Unknown,Unknown,Unknown,t
+232061048,2023-08-01 21:02:00+00,E13,Non-Fatal,Male,White,Hispanic or Latinx,f
+232061801,2023-08-04 12:31:00+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+232064317,2023-08-12 20:51:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232064025,2023-08-11 21:59:00+00,E13,Non-Fatal,Male,Black or African American,Unknown,t
+232064025,2023-08-11 21:59:00+00,E13,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232064327,2023-08-12 21:23:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232064656,2023-08-13 20:53:00+00,D4,Non-Fatal,Male,Black or African American,Unknown,f
+232064673,2023-08-13 21:52:00+00,E5,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232065054,2023-08-15 01:05:00+00,B2,Non-Fatal,Female,Black or African American,Unknown,f
+232066798,2023-08-20 23:58:00+00,C11,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+232066569,2023-08-20 04:20:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232066569,2023-08-20 04:20:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232067376,2023-08-22 21:14:00+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232068420,2023-08-26 07:43:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232068420,2023-08-26 07:43:00+00,B3,Non-Fatal,Male,Black or African American,Unknown,t
+232068420,2023-08-26 07:43:00+00,B3,Non-Fatal,Female,White,Unknown,t
+232068420,2023-08-26 07:43:00+00,B3,Non-Fatal,Male,Black or African American,Unknown,t
+232068420,2023-08-26 07:43:00+00,B3,Non-Fatal,Male,Unknown,Unknown,t
+232068420,2023-08-26 07:43:00+00,B3,Non-Fatal,Male,Black or African American,Unknown,t
+232068420,2023-08-26 07:43:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232068631,2023-08-26 20:49:00+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232068420,2023-08-26 07:43:00+00,B3,Non-Fatal,Female,Black or African American,Unknown,t
+232069171,2023-08-28 16:41:00+00,D4,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232069592,2023-08-29 21:49:00+00,E13,Non-Fatal,Male,Black or African American,Unknown,f
+232070136,2023-08-31 16:42:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232070897,2023-09-02 23:41:00+00,B3,Fatal,Male,Black or African American,Hispanic or Latinx,f
+232071178,2023-09-04 00:45:51+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,t
+232071178,2023-09-04 00:45:21+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+232072799,2023-09-09 05:25:31+00,B3,Fatal,Female,Black or African American,Not Hispanic or Latinx,t
+232072799,2023-09-09 05:25:20+00,B3,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,t
+232075311,2023-09-17 20:36:49+00,B3,Non-Fatal,Unknown,Unknown,Unknown,t
+232075311,2023-09-17 20:36:55+00,B3,Non-Fatal,Male,Black or African American,Unknown,t
+232075311,2023-09-17 20:36:16+00,B3,Non-Fatal,Male,Black or African American,Unknown,t
+232075311,2023-09-17 20:36:19+00,B3,Non-Fatal,Male,Black or African American,Hispanic or Latinx,t
+232075311,2023-09-17 20:36:24+00,B3,Non-Fatal,Male,Unknown,Unknown,t
+232075885,2023-09-19 21:00:25+00,B2,Non-Fatal,Male,Black or African American,Unknown,f
+232078875,2023-09-29 22:08:52+00,E18,Non-Fatal,Male,White,Hispanic or Latinx,f
+232079672,2023-10-02 17:43:05+00,E18,Non-Fatal,Male,Black or African American,Unknown,f
+232082860,2023-10-13 14:06:00+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232083024,2023-10-14 00:27:00+00,B3,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232085869,2023-10-23 09:30:18+00,E13,Non-Fatal,Male,Black or African American,Hispanic or Latinx,f
+232089731,2023-11-05 01:16:24+00,C6,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232094019,2023-11-18 23:17:31+00,E18,Non-Fatal,Male,Unknown,Unknown,f
+232093654,2023-11-17 20:35:40+00,B2,Non-Fatal,Female,Black or African American,Not Hispanic or Latinx,f
+232093641,2023-11-17 19:20:46+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232095381,2023-11-23 21:21:00+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232095738,2023-11-25 02:37:27+00,D14,Fatal,Male,Unknown,Unknown,t
+232095738,2023-11-25 02:37:31+00,D14,Non-Fatal,Male,White,Hispanic or Latinx,t
+232095703,2023-11-24 22:11:13+00,E18,Non-Fatal,Female,White,Hispanic or Latinx,f
+232093013,2023-11-15 18:19:41+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232098468,2023-12-04 03:51:08+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232100534,2023-12-10 20:11:46+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232102306,2023-12-16 16:29:47+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232104785,2023-12-24 21:53:09+00,B3,Non-Fatal,Male,White,Hispanic or Latinx,f
+232069229,2023-12-27 14:59:29+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232106016,2023-12-31 20:22:33+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+232106072,2023-12-30 00:52:41+00,C11,Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+242000255,2024-01-01 20:51:00+00,B2,Non-Fatal,Female,Black or African American,Unknown,f
+242000085,2024-01-01 05:29:11+00,C11,Fatal,Unknown,Unknown,Unknown,f
+242003899,2024-01-15 00:49:55+00,C6,Non-Fatal,Female,Unknown,Unknown,f
+242006014,2024-01-22 23:23:45+00,C11,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f
+242007049,2024-01-26 16:43:34+00,E5,Non-Fatal,Male,White,Hispanic or Latinx,f
+242007112,2024-01-26 22:09:04+00,D4,Non-Fatal,Male,Black or African American,Unknown,f
+242014408,2024-02-21 19:39:58+00,B3,Non-Fatal,Female,Unknown,Unknown,f
+242018404,2024-03-06 10:29:04+00,B2,Non-Fatal,Male,White,Hispanic or Latinx,f
+242015780,2024-02-26 12:21:38+00,A1,Fatal,Female,Unknown,Unknown,f
+242021248,2024-03-15 21:12:48+00,B2,Non-Fatal,Male,Black or African American,Not Hispanic or Latinx,f

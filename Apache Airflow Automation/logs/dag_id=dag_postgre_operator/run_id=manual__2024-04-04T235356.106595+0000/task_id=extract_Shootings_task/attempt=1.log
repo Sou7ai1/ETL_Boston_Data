@@ -1,0 +1,32 @@
+[2024-04-04T23:53:56.683+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_postgre_operator.extract_Shootings_task manual__2024-04-04T23:53:56.106595+00:00 [queued]>
+[2024-04-04T23:53:56.693+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_postgre_operator.extract_Shootings_task manual__2024-04-04T23:53:56.106595+00:00 [queued]>
+[2024-04-04T23:53:56.695+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 4
+[2024-04-04T23:53:56.711+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): extract_Shootings_task> on 2024-04-04 23:53:56.106595+00:00
+[2024-04-04T23:53:56.717+0000] {standard_task_runner.py:60} INFO - Started process 954 to run task
+[2024-04-04T23:53:56.720+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'dag_postgre_operator', 'extract_Shootings_task', 'manual__2024-04-04T23:53:56.106595+00:00', '--job-id', '97', '--raw', '--subdir', 'DAGS_FOLDER/dag_python_operator_extract.py', '--cfg-path', '/tmp/tmp3swd0qjv']
+[2024-04-04T23:53:56.723+0000] {standard_task_runner.py:88} INFO - Job 97: Subtask extract_Shootings_task
+[2024-04-04T23:53:56.780+0000] {task_command.py:423} INFO - Running <TaskInstance: dag_postgre_operator.extract_Shootings_task manual__2024-04-04T23:53:56.106595+00:00 [running]> on host 7f6ff1f67725
+[2024-04-04T23:53:56.850+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='moughel' AIRFLOW_CTX_DAG_ID='dag_postgre_operator' AIRFLOW_CTX_TASK_ID='extract_Shootings_task' AIRFLOW_CTX_EXECUTION_DATE='2024-04-04T23:53:56.106595+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-04T23:53:56.106595+00:00'
+[2024-04-04T23:53:58.480+0000] {Extract_BotonGOV.py:71} INFO - CSV data saved to /opt/***/plugins/ShootingsBostonGOV/ShootingsBostonGOV.csv
+[2024-04-04T23:53:58.481+0000] {dag_python_operator_extract.py:21} INFO - File was successfully saved as ShootingsBostonGOV.csv
+[2024-04-04T23:53:58.481+0000] {python.py:202} INFO - Done. Returned value was: None
+[2024-04-04T23:53:58.489+0000] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=dag_postgre_operator, task_id=extract_Shootings_task, execution_date=20240404T235356, start_date=20240404T235356, end_date=20240404T235358
+[2024-04-04T23:53:58.542+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-04-04T23:53:58.557+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.8/site-packages/***/models/baseoperator.py:1201 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `***.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-04-04T23:53:58.572+0000] {taskinstance.py:3312} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-04-05T20:49:04.307+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_postgre_operator.extract_shootings_task manual__2024-04-04T23:53:56.106595+00:00 [queued]>
+[2024-04-05T20:49:04.335+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_postgre_operator.extract_shootings_task manual__2024-04-04T23:53:56.106595+00:00 [queued]>
+[2024-04-05T20:49:04.336+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 4
+[2024-04-05T20:49:04.371+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): extract_shootings_task> on 2024-04-04 23:53:56.106595+00:00
+[2024-04-05T20:49:04.386+0000] {standard_task_runner.py:60} INFO - Started process 533 to run task
+[2024-04-05T20:49:04.397+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'dag_postgre_operator', 'extract_shootings_task', 'manual__2024-04-04T23:53:56.106595+00:00', '--job-id', '399', '--raw', '--subdir', 'DAGS_FOLDER/dag_python_operator_extract.py', '--cfg-path', '/tmp/tmpr6jb3cgk']
+[2024-04-05T20:49:04.401+0000] {standard_task_runner.py:88} INFO - Job 399: Subtask extract_shootings_task
+[2024-04-05T20:49:04.524+0000] {task_command.py:423} INFO - Running <TaskInstance: dag_postgre_operator.extract_shootings_task manual__2024-04-04T23:53:56.106595+00:00 [running]> on host 7f6ff1f67725
+[2024-04-05T20:49:04.673+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='moughel' AIRFLOW_CTX_DAG_ID='dag_postgre_operator' AIRFLOW_CTX_TASK_ID='extract_shootings_task' AIRFLOW_CTX_EXECUTION_DATE='2024-04-04T23:53:56.106595+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-04T23:53:56.106595+00:00'
+[2024-04-05T20:49:05.851+0000] {Extract_BotonGOV.py:66} INFO - CSV data saved to dataset_regions_manual__2024-04-04T23:53:56.106595+00:00.csv
+[2024-04-05T20:49:05.875+0000] {dag_python_operator_extract.py:23} INFO - File was successfully saved as dataset_regions_manual__2024-04-04T23:53:56.106595+00:00.csv
+[2024-04-05T20:49:05.877+0000] {python.py:202} INFO - Done. Returned value was: None
+[2024-04-05T20:49:05.893+0000] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=dag_postgre_operator, task_id=extract_shootings_task, execution_date=20240404T235356, start_date=20240405T204904, end_date=20240405T204905
+[2024-04-05T20:49:05.934+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-04-05T20:49:05.957+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.8/site-packages/***/models/baseoperator.py:1201 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `***.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-04-05T20:49:05.981+0000] {taskinstance.py:3312} INFO - 1 downstream tasks scheduled from follow-on schedule check
