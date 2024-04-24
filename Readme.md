@@ -10,4 +10,4 @@
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://gitlab.mff.cuni.cz/teaching/ndbi046/2023-24/mohamed-souhail-moughel
+git clone https://github.com/Sou7ai1/ETL_Boston_Data
