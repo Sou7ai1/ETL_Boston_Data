@@ -23,15 +23,16 @@
 
 
 from rdflib import DCTERMS, FOAF, PROV, RDFS, SKOS, BNode, Graph, Literal, Namespace, URIRef
-from rdflib.namespace import RDF, XSD, DCAT
+from rdflib.namespace import RDF, XSD, DCAT, NamespaceManager
 import logging
 import sys
 
+# Namespaces
 NDBI = Namespace("https://mgh.souhail.com/resources")
 EUROVOC = Namespace("http://eurovoc.europa.eu/")
 EUA = Namespace("http://publications.europa.eu/resource/authority/")
 VCARD = Namespace("https://www.w3.org/TR/vcard-rdf/")
-
+QB = Namespace("http://purl.org/linked-data/cube#")
 
 
 def create_catalog_description() -> Graph:
@@ -41,6 +42,8 @@ def create_catalog_description() -> Graph:
     result.bind("xsd", XSD)
     result.bind("dcterms", DCTERMS)
     result.bind("vcard", VCARD)
+    result.bind("eurovoc", EUROVOC)
+    result.bind("qb", QB)
 
     contact_point = create_contact_point(result)
     create_catalog(result)
@@ -98,46 +101,53 @@ def create_dataset(collector: Graph, contact_point: BNode) -> None:
                   Literal("2024-05-12", datatype=XSD.date)))
     collector.add((shootings_dataset, DCTERMS.license,
                   Literal("License not specified", lang="en")))
-    
+
     collector.add((shootings_dataset, DCAT.contactPoint, contact_point))
-    
-    collector.add((shootings_dataset, DCTERMS.title, Literal("Shootings", lang="en")))
-    collector.add((shootings_dataset, DCAT.keyword, Literal("District", lang="en")))
-    collector.add((shootings_dataset, DCAT.keyword, Literal("Gender", lang="en")))
-    collector.add((shootings_dataset, DCAT.keyword, Literal("Multiple Shootings", lang="en")))
-    collector.add((shootings_dataset, DCAT.theme, Literal("Public Safety", lang="en")))
-    collector.add((shootings_dataset, DCAT.theme, Literal("Urban Violence", lang="en")))
-    collector.add((shootings_dataset, DCAT.theme, Literal("Law Enforcement", lang="en")))
-    collector.add((shootings_dataset, DCTERMS.spatial, Literal("Boston, MA, USA", lang="en")))
-    collector.add((shootings_dataset, DCTERMS.rights, Literal("Copyright 2024, BOSTONGOV")))
 
+    collector.add((shootings_dataset, DCTERMS.title,
+                  Literal("Shootings", lang="en")))
+    collector.add((shootings_dataset, DCAT.keyword,
+                  Literal("District", lang="en")))
+    collector.add((shootings_dataset, DCAT.keyword,
+                  Literal("Gender", lang="en")))
+    collector.add((shootings_dataset, DCAT.keyword,
+                  Literal("Multiple Shootings", lang="en")))
+    collector.add((shootings_dataset, DCAT.theme, EUROVOC['public_safety']))
+    collector.add((shootings_dataset, DCAT.theme, EUROVOC['urban_violence']))
+    collector.add((shootings_dataset, DCAT.theme, EUROVOC['law_enforcement']))
+    collector.add((shootings_dataset, DCTERMS.spatial,
+                  Literal("Boston, MA, USA", lang="en")))
+    collector.add((shootings_dataset, DCTERMS.rights,
+                  Literal("Copyright 2024, BOSTONGOV")))
 
-    
     periodOfTime = BNode()
     collector.add((shootings_dataset, DCTERMS.temporal, periodOfTime))
     collector.add((periodOfTime, RDF.type, DCTERMS.PeriodOfTime))
-    collector.add((periodOfTime, DCAT.startDate, Literal("2024-01-01", datatype=XSD.date)))
-    collector.add((periodOfTime, DCAT.endDate, Literal("2022-12-31", datatype=XSD.date)))
-    
+    collector.add((periodOfTime, DCAT.startDate,
+                  Literal("2024-01-01", datatype=XSD.date)))
+    collector.add((periodOfTime, DCAT.endDate, Literal(
+        "2022-12-31", datatype=XSD.date)))
+
     activity = BNode()
     collector.add((activity, RDF.type, PROV.Activity))
-    collector.add((activity, PROV.startedAtTime, Literal("2024-05-13T12:00:00Z", datatype=XSD.dateTime)))
-    collector.add((activity, PROV.endedAtTime, Literal("2024-05-13T13:00:00Z", datatype=XSD.dateTime)))
+    collector.add((activity, PROV.startedAtTime, Literal(
+        "2024-05-13T12:00:00Z", datatype=XSD.dateTime)))
+    collector.add((activity, PROV.endedAtTime, Literal(
+        "2024-05-13T13:00:00Z", datatype=XSD.dateTime)))
 
-    
     agent = BNode()
     collector.add((agent, RDF.type, PROV.Agent))
     collector.add((agent, FOAF.name, Literal("Moughel Mohamed Souhail")))
-    
+
     attribution = BNode()
     collector.add((attribution, RDF.type, PROV.Attribution))
     collector.add((attribution, PROV.agent, agent))
     collector.add((attribution, PROV.activity, activity))
-    collector.add((attribution, PROV.endedAtTime, Literal("2024-05-13T13:00:00Z", datatype=XSD.dateTime)))
+    collector.add((attribution, PROV.endedAtTime, Literal(
+        "2024-05-13T13:00:00Z", datatype=XSD.dateTime)))
     collector.add((shootings_dataset, PROV.qualifiedAttribution, attribution))
-    
-    collector.add((shootings_dataset, PROV.wasGeneratedBy, activity))
 
+    collector.add((shootings_dataset, PROV.wasGeneratedBy, activity))
 
 
 def create_creator(collector: Graph, contact_point: BNode) -> None:
@@ -168,6 +178,8 @@ def create_distributions(collector: Graph) -> None:
         "https://data.boston.gov/dataset/e63a37e1-be79-4722-89e6-9e7e2a3da6d1/resource/73c7e069-701f-4910-986d-b950f46c91a1")))
     collector.add((csv_distribution, DCAT.downloadURL, URIRef(
         "https://data.boston.gov/datastore/dump/73c7e069-701f-4910-986d-b950f46c91a1?bom=True")))
+    collector.add((csv_distribution, RDF.type, DCAT.Distribution))
+    collector.add((csv_distribution, DCTERMS.description, Literal("CSV format distribution of shooting incidents data, suitable for data analysis and reporting.", lang="en")))
     collector.add((csv_distribution, DCAT.mediaType, URIRef(
         "https://www.iana.org/assignments/media-types/text/csv")))
     collector.add((csv_distribution, DCAT.byteSize, Literal(
@@ -183,6 +195,8 @@ def create_distributions(collector: Graph) -> None:
         "https://data.boston.gov/datastore/dump/73c7e069-701f-4910-986d-b950f46c91a1?format=tsv&bom=True")))
     collector.add((tsv_distribution, DCAT.mediaType, URIRef(
         "https://www.iana.org/assignments/media-types/text/tab-separated-values")))
+    collector.add((tsv_distribution, RDF.type, DCAT.Distribution))
+    collector.add((tsv_distribution, DCTERMS.description, Literal("TSV format distribution of shooting incidents data, suitable for data analysis and reporting.", lang="en")))
     collector.add((tsv_distribution, DCAT.byteSize, Literal(
         "195021", datatype=XSD.nonNegativeInteger)))
 
@@ -196,6 +210,8 @@ def create_distributions(collector: Graph) -> None:
         "https://data.boston.gov/datastore/dump/73c7e069-701f-4910-986d-b950f46c91a1?format=json")))
     collector.add((json_distribution, DCAT.mediaType, URIRef(
         "https://www.iana.org/assignments/media-types/application/json")))
+    collector.add((json_distribution, RDF.type, DCAT.Distribution))
+    collector.add((json_distribution, DCTERMS.description, Literal("JSON format distribution of shooting incidents data, suitable for data analysis and reporting.", lang="en")))
     collector.add((json_distribution, DCAT.byteSize, Literal(
         "236488", datatype=XSD.nonNegativeInteger)))
 
@@ -209,6 +225,8 @@ def create_distributions(collector: Graph) -> None:
         "https://data.boston.gov/datastore/dump/73c7e069-701f-4910-986d-b950f46c91a1?format=xml")))
     collector.add((xml_distribution, DCAT.mediaType, URIRef(
         "https://www.iana.org/assignments/media-types/text/xml")))
+    collector.add((xml_distribution, RDF.type, DCAT.Distribution))
+    collector.add((xml_distribution, DCTERMS.description, Literal("XML format distribution of shooting incidents data, suitable for data analysis and reporting.", lang="en")))
     collector.add((xml_distribution, DCAT.byteSize, Literal(
         "706600", datatype=XSD.nonNegativeInteger)))
 
